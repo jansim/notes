@@ -1,0 +1,17 @@
+# Web AR Research
+- https://github.com/AR-js-org/AR.js
+	- slow development (at best), examples don't work reliably on iOS
+	- new: image markers
+	- kein zugang zu ARkit...
+- 8thwall
+	- paid & expensive
+- Apple QuickLook usdz based
+	- https://developer.apple.com/augmented-reality/quick-look/
+	- https://cwervo.com/writing/quicklook-web/#ios-13
+	- Android: USDZ support limited, could create AR.js fallback
+- Alternative (not really AR but ML) => Tensorflow.js [DEMOS](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md)
+	- [PoseAnimator](https://github.com/yemount/pose-animator/) - Animate any SVG character using your own body live via your webcam. Uses posenet and facemesh to create some really unique animations.
+-   [3D Face Doodles](https://github.com/cyrildiagne/ar-facedoodle) - What if your face was a canvas and you could paint on it in real time? Check out this experiment that does just that in real time in the browser.
+-   [Shaderbooth](https://shaderbooth.com/?85daa) - Experiment with WebGL Shaders + TensorFlow.js to create stunning visual effects such as shooting lasers from your eyes and more!
+-   Visualize poses with https://github.com/williamngan/pts/tree/master/demo/more/tfjs_posenet
+-   

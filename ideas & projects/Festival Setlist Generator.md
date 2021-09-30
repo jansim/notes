@@ -1,0 +1,5 @@
+- Create Rmd script to test shit
+- Get code to download all songs from a band => spotifyr
+- Get code to download setlist data from website for one band
+- Create full join of setlists x band songs so for every festival / concert that has a band it also has all their songs
+- Use popularity and data vs album release as predictors
