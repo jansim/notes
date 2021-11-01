@@ -1,3 +1,4 @@
 {
-  "fileSortOrder": "byCreatedTime"
+  "fileSortOrder": "byCreatedTime",
+  "promptDelete": false
 }
