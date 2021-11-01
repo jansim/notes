@@ -17,4 +17,8 @@
 - To increase reliability of tasks / processes => use checklists [> the checklist manifesto](https://www.lesswrong.com/posts/dtmmP4YdJEfK9y4Rc/book-review-the-checklist-manifesto)
 - importance of reading
 - you pay compound interest on tough decisions when you just put them off for a later day
+- Don't make excuses when failing => always look at what could've been done better
+- One of the main things holding us back is the unwillingness to look stupid in the short term
+- When someone asks, any questions and you say that you don't have one... it's not about not having a question, it's saying I don't care enough to voice a question and risk looking stupid
+- people don't want what you want -> figure out where they come from, what they want ie empathy!
 - 

@@ -1,0 +1,10 @@
+- automated call recognition
+	- analysing acoustic calls
+	- large amounts of acoustic data
+	- also presence / also accelerometer
+- jake's necoder project
+	- fancy clustering
+- facial recognition of primates
+	- age / gender / relatedness
+	- 
+- 

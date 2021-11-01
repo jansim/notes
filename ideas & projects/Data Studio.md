@@ -12,4 +12,7 @@
 - Tools to use:
 	- Observable Data Wrangler (https://observablehq.com/@observablehq/data-wrangler)
 	- Voyager 2
+	- SandDance
+	- Kepler.gl
+	- rawgraphs.io
 	- other dataviz tools

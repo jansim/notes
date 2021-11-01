@@ -1,0 +1,22 @@
+# Algorithms & Models
+
+- Classic
+	- [[Linear Regression]]:
+	- [[Logistic Regression]]: Kind of like linear regression, but for the log() of the odds of an event happening.
+- [[k-Nearest Neighbours (kNN)]]: Find the k most similar observations and use their mean.
+- [[Linear Discriminant Analysis (LDA)]]: Flips problem on its head: Models the distribution of predictors for each level of outcome and then uses bayes theorem to determine the most likely class for the given data.
+- [[Quadratic Discriminant Analysis (QDA)]]: Like LDA, but does not assume equal variance of features.
+- [[LASSO & Ridge Regression]] (Regularized Regression): Similiar to normal regression models (linear / logistic), but shrinking coefficients with a penalty.
+- Tree Based
+	- [[Random Forest]]: Construct many (i.e. hundreds / thousands) of decision trees and use the average / most common prediction of them.
+	- [[Decision Trees]]: Find optimal splits based on features and construct a tree of choices.
+- [[Support Vector Machine (SVM)]]: Find a plane (in n-fold feature space) to separate observations. Supports different kernels.
+- Neural Networks / Deep Learning
+	- Neural Networks
+	- Reinforcement Learning
+	- Convolutional Neural Networks
+	- Shallow Neural Networks
+- Types of Fitting
+	- Bagging: Bootsrap aggregation => fit on multiple bootstrapped datasets (from your original single dataset) and use the average / most common prediction.
+	- Boosting: Similar to bagging, but sequential i.e. each addition improves performance as it is fitted on residuals
+- 

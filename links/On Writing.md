@@ -1,0 +1,2 @@
+- https://blog.pragmaticengineer.com/writing-motivation/
+- 
