@@ -1,0 +1,8 @@
+- onboarding
+- finding skilled labour
+- quick change also within organization
+	- can be challenging for employees => may increase turnover
+	- change within team structure and management
+- clash between start-up culture (rapid change, wider roles, jack-of-all-trades) and more established business culture (more specific / narrow roles, expertise and skills) => soliution: empathy
+	- retention sometimes harder during covid
+- 

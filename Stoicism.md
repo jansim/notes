@@ -1,0 +1,3 @@
+- Knowledge Project: https://podcasts.apple.com/de/podcast/the-knowledge-project-with-shane-parrish/id990149481?l=en&i=1000540475617
+- Techniques
+- Negative visualization 

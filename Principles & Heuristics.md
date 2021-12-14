@@ -8,6 +8,9 @@
   - 
 - embrace uncertainty: be comfortable with not knowing what's gonna happen, because you can't control it anyways
 - do Something Principle: See doing something (the action itself) as a success in and of itself, don't use result as measure of success; Motivstion and results wil follow
+- Enjoy what live has to offer, but be prepared to lose it. Don't take things for granted. -> Stoicism
+- what is worth doing even if I fail?
+- 
 
 ## Heuristics
 - Highlight, we are not at the Center of the Universe (Even though our experience is like it)! [src](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)

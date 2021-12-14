@@ -1,0 +1,11 @@
+# Things ToDo in next Teneriffa Urlaub
+- Mietwagen mieten!
+- Hike Mascar Gorge
+	- Bring hiking shoes; get a ticket in time
+- El Teide (inkl top)
+	- reserve permit in time to go to top
+	- can hike up or take cable car 🤷‍♂️
+- Anaga forest
+	- can also reserve a permit for that in time
+- Puerto de la cruz has great bus connections fwiw 🤔
+- 

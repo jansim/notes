@@ -10,6 +10,8 @@ It depends:
 - If the setting permits it, we might be able to impute missing observations. (Could also just be set to 0 if it makes sense)
 
 ## Concepts
+- Unsupvervised vs Supervised Machine Learning
+
 - **Law of Large Numbers**: Back-bone of freq. statistics; 
 - **Selection Bias**: Error due to non-random sample from population
 - **Survivorship Bias**: Non-random dropout leading to weird sample.

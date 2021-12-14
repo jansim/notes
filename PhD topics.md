@@ -6,4 +6,4 @@
 - Emotion Research Tooling
 	- Pupillometry
 - Open Data?
-- 
+- resilience to influence

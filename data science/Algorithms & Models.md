@@ -16,6 +16,7 @@
 	- Reinforcement Learning
 	- Convolutional Neural Networks
 	- Shallow Neural Networks
+	- Transformers
 - Types of Fitting
 	- Bagging: Bootsrap aggregation => fit on multiple bootstrapped datasets (from your original single dataset) and use the average / most common prediction.
 	- Boosting: Similar to bagging, but sequential i.e. each addition improves performance as it is fitted on residuals

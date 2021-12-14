@@ -5,5 +5,6 @@
 - To Academia or not to Academia
 - data science design patterbs
   - ie Transformers, recipes, R vs Python, tidymodels vs scikitlearn
+- DataViz on Mental Health
 - 
 

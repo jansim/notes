@@ -1,0 +1,11 @@
+- Data Manipulation
+	- pandas
+	- numpy
+	- scipy
+- DataViz
+	- matplotlib
+	- seaborn
+	- ?? plotly
+- Data Modeling
+	- scikit-learn
+	- statsmodels
