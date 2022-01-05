@@ -1,10 +1,9 @@
 ## ToDo / Next Steps
-- Add data loading (via drag 'n drop)
-- Publish
 - Load modules truly external (umd?)
-- Add other modules
-- Use arquero for data
+- Add perspective library
 - Support multiple datasets
+- Advertise
+- VSCode Extension
 
 ## Summary
 - Top Bar:
@@ -24,8 +23,17 @@
 	- Voyager 2
 	- SandDance
 	- Kepler.gl
+	- Perspective
 	- rawgraphs.io
 	- other dataviz tools
 	- https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce
+- Top:
+	- https://github.com/plotly/react-chart-editor
+	- https://github.com/lana-k/sqliteviz
+	- https://github.com/nicolaskruchten/pivottable
+- SQL Query Support via SQL.js 
+- Observable-Like Interface
 - mito.io or tablum.io
+- Other interesting, but prob less relevant
+	- https://github.com/multiprocessio/datastation
 	- 

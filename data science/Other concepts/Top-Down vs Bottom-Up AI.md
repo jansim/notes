@@ -1,0 +1,3 @@
+Top-Down AI is the classic approach of a machine learning model trying to predict labels / human annotations to data. The typical ceiling for these models is always human performance. It is closely related to and may be synonimical with supervised 
+
+Bottom-Up AI ignores human labels and tasks and rather uses some form of sensory input. It then tries to predict how this sensory input will change in the future. The hope is, that along the way it will develop a task-agnostic model of how the world works. Examples of this can be self-supervised learning, GANs and approaches using intrinsic motivation.

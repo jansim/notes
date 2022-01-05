@@ -1,0 +1,13 @@
+- Accessibility of statistics
+-  Democratizing Data Science
+	- More Intuitive Statistics
+	- 
+- Bridging the Gap between Intended and Actual Behaviour
+- Emotion Research Tooling
+	- Pupillometry
+- Open Data?
+- resilience to influence
+- Data Quality
+	- in regards to fairness / bias in the data
+	- representation
+	- building tools to easily examine this?

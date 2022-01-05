@@ -1,0 +1,4 @@
+- Apache Spark
+	- Unified API to Interact with Data (available via Python, SQL, R and more)
+	- Allows parallelization and scalability
+	- Can run in cluster

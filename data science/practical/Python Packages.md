@@ -1,11 +1,17 @@
 - Data Manipulation
-	- pandas
-	- numpy
-	- scipy
+	- pandas: In-memory Dataframe and manipulation library
+		- koalas: Pandas using Apache Spark for Bigger Data
+	- numpy: Working with Arrays / Matrices in Python
+	- scipy: For more complex mathematical operations
 - DataViz
 	- matplotlib
 	- seaborn
 	- ?? plotly
+	- bokeh
 - Data Modeling
-	- scikit-learn
+	- scikit-learn: Highly flexible Machine-Learning Library
+		- more focused on the shallow side of ML
 	- statsmodels
+- Database Access
+	- SQLAlchemy
+	- peewee

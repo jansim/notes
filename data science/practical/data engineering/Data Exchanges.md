@@ -1,0 +1,3 @@
+- Allow the exchange of data
+- Provide workflows for licensing, de-identification, quarantined environments for running analyses
+- e.g. AWS DataExchange, Crunchbase, Lotame, Snowflake ❄️

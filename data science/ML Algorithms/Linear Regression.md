@@ -1,7 +1,0 @@
-# Linear Regression
-
-## Summary
-
-
-## Notes
-

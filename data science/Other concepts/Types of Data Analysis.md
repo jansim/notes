@@ -1,0 +1,5 @@
+- Descriptive Analytics: What is happening / happened?
+- Diagnostic Analytics: Why does this happen?
+- Predictive Analytics: What happens next?
+	- distinction to data science becomes blurry
+- Prescriptive Analytics: What should be done?
