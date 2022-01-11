@@ -1,7 +1,8 @@
 ## ToDo / Next Steps
-- Load modules truly external (umd?)
-- Add perspective library
 - Support multiple datasets
+- Use Tabulator for table rendering
+	- Summary charts in header via formatters (?)
+- Add perspective library
 - Advertise
 - VSCode Extension
 
@@ -26,6 +27,7 @@
 	- Perspective
 	- rawgraphs.io
 	- other dataviz tools
+	- Small graphs at top of columns
 	- https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce
 - Top:
 	- https://github.com/plotly/react-chart-editor
@@ -33,6 +35,7 @@
 	- https://github.com/nicolaskruchten/pivottable
 - SQL Query Support via SQL.js 
 - Observable-Like Interface
+- https://flatgithub.com/the-pudding/data?filename=boybands%2Fboys.csv&sha=9b4e89ed178e11bf70a9b3d8ffa57ac2ea181b96
 - mito.io or tablum.io
 - Other interesting, but prob less relevant
 	- https://github.com/multiprocessio/datastation

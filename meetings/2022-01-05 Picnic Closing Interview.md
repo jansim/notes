@@ -4,8 +4,8 @@ creation date: 2022-01-05 09:56
 # 2022-01-05: Picnic Closing Interview
 
 
-## Notes going into
-
+## People
+- Frederik Nieuwenhuys - Co-Founder
 
 ## Notes during
 - Questions
@@ -15,4 +15,22 @@ creation date: 2022-01-05 09:56
 
 ## Summary / Action Points
 - be better at reflection
+
+# Feedback
+- sehr beeindruckend
+- gut kommuniziert
+- reflektion
+
+- Im Detail verlieren
+- Gründern
+- Customer oder Commercial Teams
+
+- Aspirations wo will ich hin
+
+- 6  
+- 4500 pro monat incl holiday
+- 25 Tage Urlaub
+- Essen dort
+- Mental Health ding
+- Soft skill training
 - 

@@ -27,3 +27,11 @@
 - When someone asks, any questions and you say that you don't have one... it's not about not having a question, it's saying I don't care enough to voice a question and risk looking stupid
 - people don't want what you want -> figure out where they come from, what they want ie empathy!
 - 
+
+## Purpose
+- Likeness
+	- What Person Do I want to become?
+	- Devote to *becoming* that person
+- 
+
+Source: How will you measure your life?

@@ -3,6 +3,10 @@
 2. Hoek van Holland
 3. UK (via ferry)
 
+- evtl to yorkshire dales
+- Trains in UK sometimes allow free bikes!
+- June - July - Gerry Cinnamon UK Tour!!
+
 
 ## 🌳 Groene Route: Maastricht -> Southern France Sea
 - [https://www.europafietsers.nl/fietsroutes/groene-weg-naar-de-middellandse-zee/](https://www.europafietsers.nl/fietsroutes/groene-weg-naar-de-middellandse-zee/)
