@@ -1,5 +1,5 @@
 {
-  "fileSortOrder": "alphabeticalReverse",
+  "fileSortOrder": "alphabetical",
   "promptDelete": false,
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
@@ -24,5 +24,10 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],
-  "legacyEditor": false
+  "legacyEditor": false,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "foldHeading": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "media/attachments"
 }
