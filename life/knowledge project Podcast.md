@@ -1,0 +1,1 @@
+#67 Jim Collins: Confront brutal facts first, before looking at rosy dream

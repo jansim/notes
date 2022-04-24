@@ -1,0 +1,3 @@
+- list of artists
+- get list of all songs by artist from Spotify
+- use artist - song to scrape 

@@ -1,9 +1,6 @@
 ---
 creation date: 2022-01-05 09:56
 ---
-# 2022-01-05: Picnic Closing Interview
-
-
 ## People
 - Frederik Nieuwenhuys - Co-Founder
 

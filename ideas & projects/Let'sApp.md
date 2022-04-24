@@ -4,4 +4,14 @@
 -   Some basic tags?
 - Check idea: make WhatsApp group and print out qr code for tennis fields 
 - MVP:  some Craigslist copy?
-- 
+- Names
+	- Let's/ lets 
+	- LetsApp
+	- let's do
+	- Let us
+	- Lettuce
+- Solution to
+	- What shall we do tonight?
+	- What's going on in town?
+	- I want to make friends as an adult
+	- 

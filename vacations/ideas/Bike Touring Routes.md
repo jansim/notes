@@ -14,3 +14,6 @@
 - [https://www.polarsteps.com/AnneBeaufort/4102020-de-groene-weg-naar-het-zuiden?s=0DB5F5AF-E418-4514-ADE0-B22B2DEB8679](https://www.polarsteps.com/AnneBeaufort/4102020-de-groene-weg-naar-het-zuiden?s=0DB5F5AF-E418-4514-ADE0-B22B2DEB8679)
 
 
+##  Netherlands
+- Terscheling? Via Ferry from Harlingen
+- 

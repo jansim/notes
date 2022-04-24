@@ -1,10 +1,28 @@
 ## ToDo / Next Steps
-- Support multiple datasets
-- Use Tabulator for table rendering
-	- Summary charts in header via formatters (?)
-- Add perspective library
-- Advertise
-- VSCode Extension
+- [x] Support multiple datasets
+- [x] Update module viewer
+	- [x] Use Tabulator for table rendering
+- [ ] Summary charts in header via formatters (?)
+- [x] Add perspective library
+- [ ] Add https://github.com/plotly/react-pivottable
+- [ ] Add https://github.com/plotly/react-chart-editor
+- [ ] Advertise
+- [ ] VSCode Extension
+- [ ] Rename
+	- VAstudio
+	- VA-studio
+	- VA Studio
+	- Analysys
+	- Analy-Sys
+	- Analyst Studio
+	- DA Studio
+- [x] Support to paste data (excel & csv)
+	- [ ] Check excel
+- [ ] Compare dataframes!!
+
+## Spec
+For posting it online
+- Useful enough so that I want to use it for EDA
 
 ## Summary
 - Top Bar:

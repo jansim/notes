@@ -1,7 +1,6 @@
 - Accessibility of statistics
 -  Democratizing Data Science
 	- More Intuitive Statistics
-	- 
 - Bridging the Gap between Intended and Actual Behaviour
 - Emotion Research Tooling
 	- Pupillometry

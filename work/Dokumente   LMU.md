@@ -1,0 +1,13 @@
+- [x]   Lebenslauf CV
+- [x]   Geburtsurkunde, ggf. Heiratsurkunde, ggf. Scheidungsnachweis birth certificate/ in case: marriage certificate/divorce certificate)
+- [x]   ggf. Geburtsurkunden der Kinder birth certificate of kids/in case
+- [x]   Hochschulabschluss (Diplom, Bachelor, Master, Staatsexamen, Promotion, ggf. vorläufige Bescheinigung des Prüfungsamtes) Certificate of a university degree (bachelor/master/diploma/PhD)
+- [x]   Nachweise über Vorbeschäftigungszeiten (Arbeitsverträge, Zeugnisse) in case: contracts
+- [x]   Führungszeugnis gem. [§ 30 Abs. 5 BZRG](http://www.gesetze-im-internet.de/bzrg/__30.html) – für eine Behörde Availible at german/munich public authority)
+- [x]   Kopie des Sozialversicherungsausweises Social Insurance identy card or **number**
+- [x]   Bankverbindung: Name der Bank, IBAN und BIC Bank account (IBAN, BIC, Bank)
+- [ ]   Nachweis über die Mitgliedschaft in einer Krankenkasse health insurance card
+- [x]   Steueridentifikationsnummer Tax ID
+- [ ]   Passbild 1x für Personalfragebogen Passport photograph 1x
+- [x] Reisepass oder Personalausweis Copy of passport or ID-Card
+

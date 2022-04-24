@@ -1,0 +1,5 @@
+- Florian Kreusch
+- Man muss aktiv schauen was man machen will
+- Ohne konkrete Richtung rein
+- Richtung Datenqualität
+- 

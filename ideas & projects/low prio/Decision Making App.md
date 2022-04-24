@@ -1,0 +1,2 @@
+- formalize processes before (or use existing ones) and be guided through the process to make good decisions in the end
+- 

@@ -8,3 +8,9 @@
 	- find recources on which software can do it / how i.e. R / python packages; JASP / Jamovi / SPSS
 	- upvote / downvot recources in terms of quality
 - get structured info on requirements / assumptions / steps / etc.
+
+
+
+- Data-to-viz but for statistical tedts
+- 
+
