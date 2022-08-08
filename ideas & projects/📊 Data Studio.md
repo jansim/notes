@@ -1,0 +1,88 @@
+## ToDo / Next Steps
+- [ ] update iframe module system
+	- [ ] rename to plugins (to avoid name conflicts with internal JS modules?)
+	- [ ] allow developing a plugin w/o running in the full tool i.e. mirror api in dev mode or sth
+	- [ ] properly implement security to not leak data
+	- [ ] allow loading of external modules
+		- [ ] prob. need to clear up the distinction between plugin-description/manifest and plugin code/instance
+- [x] document code
+- [ ] add tests
+- [ ] only unload modules when the underlying data actually changes
+- [x] Support multiple datasets
+- [x] Update module viewer
+	- [x] Use Tabulator for table rendering
+- [ ] Summary charts in header via formatters (?)
+- [x] Add perspective library
+- [x] Add https://github.com/plotly/react-pivottable
+- [x] Add https://github.com/plotly/react-chart-editor
+- [ ] Advertise
+- [ ] VSCode Extension
+	- [ ] Theming support so as to not stand out (based on a few lead colors)
+- [ ] Rename
+	- VAstudio
+	- VA-studio
+	- VA Studio
+	- Analysys
+	- Analy-Sys
+	- Analyst Studio
+	- DA Studio
+	- EDA Studio
+	- Data Explorer
+- [x] Support to paste data (excel & csv)
+	- [x] Check excel
+- [ ] Compare dataframes!!
+- [ ] Implement packages in R, Python, Jupiter, vscode, Julia 
+- [ ] SQL Support
+	- [ ] duckdb-wasm
+		- [ ] Use duckdb as data backend in the long run?? (downside: 1.8M WASM loading, **after** compressing!!)
+		- [ ] Maybe support two backends - small & large
+			- [ ] Duckdb performance much higher on large, complex data (which is unusable atm anyways)
+			- [ ] On small <1k rows data arquero outperforms
+	- [ ] SQL.js
+- [ ] JS Support
+	- [ ] Simple REPL, prob. via monaco editor alt. codemirror (same REPL for SQL)
+	- [ ] Support for dataviz libraries e.g. observable plot, d3, ... basically a clone of observable?
+	- [ ] Add a snippet with arquero
+- [ ] Move to Typescript?
+- [ ] Loading indicator
+
+## Spec
+For posting it online
+- Useful enough so that I want to use it for EDA
+
+## Summary
+- Top Bar:
+	- Very Left list of datasets (across modules)
+	- Top: selection of modules (like word / JASP)
+- Modules
+	- Load Data
+		- From file (via drag and drop)
+		- 
+	- Wrangle
+	- Viz e.g. Voyager etc etc
+
+
+## Ideas
+- Tools to use:
+	- Observable Data Wrangler (https://observablehq.com/@observablehq/data-wrangler)
+	- Voyager 2
+	- SandDance
+	- Kepler.gl
+	- Perspective
+	- rawgraphs.io
+	- other dataviz tools
+	- Small graphs at top of columns
+	- https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce
+- Top:
+	- https://github.com/plotly/react-chart-editor
+	- https://github.com/lana-k/sqliteviz
+	- https://github.com/nicolaskruchten/pivottable
+- SQL Query Support via SQL.js 
+- Observable-Like Interface
+- https://flatgithub.com/the-pudding/data?filename=boybands%2Fboys.csv&sha=9b4e89ed178e11bf70a9b3d8ffa57ac2ea181b96
+- mito.io or tablum.io
+- Other interesting, but prob less relevant
+	- https://github.com/multiprocessio/datastation
+- Tad, app to view & explore datasets https://github.com/antonycourtney/tad
+	- might have some interesting sub packages
+	- uses duckdb behind the scenes

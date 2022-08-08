@@ -1,3 +1,3 @@
-![[Data Studio]]
+![[📊 Data Studio]]
 
 ![[📻️  World Radio]]

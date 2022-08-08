@@ -1,0 +1,3 @@
+- Switzerland
+	- Most beautiful train ride in the world, 8h quite expensive elsewise
+- 

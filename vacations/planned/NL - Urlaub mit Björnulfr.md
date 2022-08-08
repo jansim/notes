@@ -15,28 +15,7 @@
 
 
 ## Route
-- Start: Amsterdam
-- Tag 1
-	- Amsterdam -> Vlissingen (Zug)
-	- Vlissingen -> Breskens (Fähre)
-	- Breskens -> Brügge (Fahrrad, 35km)
-	- Nacht in Brügge
-- Tag 2 & 3
-	- Brügge -> Dunkirk (75km, 2 Tage?)
-- Tag 4 (?)
-	- Dunkirk -> Calais (42km, opt.?)
-	- Dunkirk -> Dover (Fähre)
-- Tag 5
-	- Dover -> Canterbury (Fahrrad, 26km)
-- Tag 6
-	- Canterbury -> Manningtree (Zug, Reservation required, )
-	- Manningtree (rumschauen) -> Harwich
-- Tag 7
-	- Harwich -> Hoek van Holland
-- Tag 8 & 9
-	- Hoek van Holland -> Amsterdam
-
-- Alternative andersrum
+- **Start**: Amsterdam
 - Tag 1 & 2
 	- Amsterdam -> Hoek van Holland
 	- Hoek van Holland -> Harwich (Fähre, RESERVIERUNG)
@@ -54,8 +33,6 @@
 - Tag 8
 	- Brügge -> Vlissingem -> Zug nach Amsterdam
 
-
-
 # Activities
 - Brügge: Bootstour, Groeninge Museum
 - Dover
@@ -65,4 +42,40 @@
 
 - Evtl
 	- Ghent: Vlaamse Opera
-	- 
+
+## Packlist
+- Zelt
+- Isomatte
+- Schlafsack
+- Clothes
+- Waschzeug
+- Kochtsachen
+	- **Gaskocher**
+	- **Campinggeschirr**
+	- Aeropress 
+- mini campinghocker
+- Powerbank (?)
+- Lampe (?)
+
+## Von Zuhause
+- [ ] Zelt
+- [ ] Isomatte (x2)
+- [ ] Schalfsack (x2)
+- [ ] Mini bags?
+- [ ] 
+
+
+
+
+
+
+
+
+
+Kosten
+- Fähre: 178EUR
+- Zug
+	- 28 EUR
+	- 35 EUR
+- 80 EIR chairs
+- 

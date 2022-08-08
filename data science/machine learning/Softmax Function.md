@@ -1,0 +1,1 @@
+Converts a vector of numbers into probabilities. Typically used on the final output from a NN to get the output onto a probability scale.

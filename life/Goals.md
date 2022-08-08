@@ -1,0 +1,9 @@
+- Family
+	- Doesn't have to be kids, but needs to be loving
+- Friends
+	- Develop a net of friends where I live (and beyond)
+- Things to have done
+	- Create a Boardgame
+		- Doesn't have to be played by anyone, just needs to be created
+	- Write a book
+		- Doesn't need to be read by anyone, a 100 pages are more than enough

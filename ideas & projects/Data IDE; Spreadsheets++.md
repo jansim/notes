@@ -8,5 +8,5 @@
 
 ## See also
 - [Datassette](datasette.io)
-- [[Data Studio]]
+- [[📊 Data Studio]]
 - Vscode csv / data plugins

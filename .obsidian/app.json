@@ -29,5 +29,6 @@
   "showLineNumber": false,
   "foldHeading": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "media/attachments"
+  "attachmentFolderPath": "media/attachments",
+  "spellcheck": true
 }

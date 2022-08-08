@@ -1,0 +1,34 @@
+## Requirements
+- **primary**
+	- saving / writing data
+		- privacy-aware
+		- reliable
+			- make sure data arrives, retry if not (!)
+		- outputs
+			- to Database
+			- to File
+			- to OSF
+	- reading data
+		- in a clean format
+	- scalability
+		- freely scalable
+	- ease-of-use
+		- easy to implement
+		- easy to understand -> simplicity
+		- easy to set up
+	- open-source / self-hostable
+	- support for common psych libraries
+		- maybe others?
+		- make the API simple enough to work w/ anything
+- **secondary**
+	- embeddable experiments into a website
+	- hosting experiments (optional)
+
+## Inspiration
+- pushkin
+- themusiclab.org
+- Similar
+	- [https://open-lab.online/](https://open-lab.online/)
+	- Pavlovia
+	- Gorrilas (??, ask Felix)
+- 
