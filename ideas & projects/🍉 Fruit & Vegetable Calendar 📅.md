@@ -8,6 +8,7 @@ Calendar with info on seasonality of fruit & vegetables, based on location
 	- Use manual data, based on calendars out there, maybe automize via the EU data or such.. would have the benefit of supporting different countries (?)
 	- Create a circle corresponding to the year, inner most circle describes the month
 	- Outside of the circle there's lines for each of the fruits / vegetables corresponding to the months they are active in a binary on / off fashion
+- Add whether or not they can go in the fridge 🥶
 - use google trends data in different countries for fine-grained info, maybe "xxx harvest" (translated to local language)
 	- validate with existing sources of fruit x seasonality data (e.g. goodbuy calendar)
 - Create calendar layout with smoothed interest over time

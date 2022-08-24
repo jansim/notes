@@ -11,15 +11,18 @@ kanban-plugin: basic
 - [ ] Figure out which projects to do with TML
 - [ ] Get better Idea regarding occupation coding literature
 - [ ] JASP learn-stats
-- [ ] Clean up ESCO-Plot
 - [ ] Look at Feuerriegel Group Website
 - [ ] Klausur korrigieren
+- [ ] git Kurs,complete first draft
+- [ ] Discuss AuxCo Format w/ Malte
+- [ ] Reach out to KIT peeps
+- [ ] Kurse Planen
+- [ ] Plan intro-to-R course
 
 
 ## In-Progress
 
 - [ ] Determine what to do
-- [ ] Ask Frauke remaining questions on collabs
 
 
 ## In-Review / On Hold
@@ -27,11 +30,15 @@ kanban-plugin: basic
 - [ ] Figure out which graduate school to join in Munich
 - [ ] Rechnung schicken
 - [ ] !! Reach out to Personalabteilung re KV
+- [ ] Intro-to-git: Send Kursbeschreibung, Ask re. Language
 
 
 ## Finished
 
 **Complete**
+- [x] First Website Edits
+- [x] Clean up ESCO-Plot
+- [x] Ask Frauke remaining questions on collabs
 - [x] Meet w/ Frauke
 - [x] Set up with TK
 - [x] Send grad school application to Christoph @{2022-07-13}

@@ -24,6 +24,23 @@
 	- embeddable experiments into a website
 	- hosting experiments (optional)
 
+## Possible Implementation
+- "Cloud-native"
+- Serverless
+	- AWS Lambda for API
+	- [DynamoDB](https://aws.amazon.com/dynamodb/) or [Aurora Serverless](https://aws.amazon.com/rds/aurora/serverless/) for DB
+		- Check pricing
+	- Language
+		- JS
+		- TS
+		- Python
+			- SQLAlchemy
+			- https://github.com/jordaneremieff/mangum (fastApi) or https://github.com/zappa/Zappa (flask) 
+	- Local serverless setup
+		- https://github.com/localstack/localstack
+		- https://github.com/openfaas/faas
+		- Knative
+
 ## Inspiration
 - pushkin
 - themusiclab.org
