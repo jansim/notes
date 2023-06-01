@@ -1,4 +1,19 @@
+## ToDo
+- [ ] Split up course into separate topics
+- [ ] Re-View all Slides
+- [ ] Build own scavenger hunt
+
+
+## Preparation
+
+- Create course member list (with some empty spots)
+- Get list of github usernames
+
 ## General
+
+- Notes
+	- Maybe longer practicals with the students?
+	- What is the Transferaufgabe??
 
 - Material
 	- Create one presentation
@@ -28,10 +43,14 @@
 - [Gut in 5 minutes](https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html)
 	- https://news.ycombinator.com/item?id=32370234
 - https://docs.github.com/en/get-started/quickstart/set-up-git
-- https://github.com/google/orbit/network
-	- For graph
 - https://gitimmersion.com/lab_01.html
 - https://githowto.com/
+- VS-Code
+	- https://code.visualstudio.com/docs/sourcecontrol/overview
+	- https://code.visualstudio.com/docs/sourcecontrol/intro-to-git
+	- https://code.visualstudio.com/docs/sourcecontrol/github
+	- https://code.visualstudio.com/docs/sourcecontrol/faq
+- 
 
 ## Links
 - [Example Kursbeschreibung](https://studium.hoc.kit.edu/index.php/veranstaltungsdetailssp3/?id=1ca5ee62-22a7-4753-86c7-3d38d6368417)

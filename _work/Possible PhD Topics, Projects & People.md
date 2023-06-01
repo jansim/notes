@@ -17,11 +17,15 @@
 	- Supabase
 	- Aww lambdas 
 	- Ask Felix?!
-	- 
+- Data Literacy?
+	- Spreadsheet 2.0??
+- 
 
 ## Cool Labs
 - # [Sustainability and artificial intelligence lab](https://sustain.stanford.edu/)
-	- 
+
+## DataViz
+- Statistical Graphics Professors (Iowa-Background): [www.dicook.org/](http://www.dicook.org/) and [https://www.stat.iastate.edu/people/heike-hofmann](https://www.stat.iastate.edu/people/heike-hofmann)
 
 # Collaborators
 - Sam @ Yale / Auckland

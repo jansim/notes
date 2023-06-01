@@ -1,0 +1,13 @@
+{
+  "hide-tags-display": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 2,
+      "unit": "days",
+      "direction": "before",
+      "color": "rgba(203, 0, 0, 1)"
+    }
+  ],
+  "date-picker-week-start": 1
+}

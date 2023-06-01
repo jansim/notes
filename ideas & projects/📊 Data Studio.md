@@ -5,9 +5,13 @@
 	- [ ] properly implement security to not leak data
 	- [ ] allow loading of external modules
 		- [ ] prob. need to clear up the distinction between plugin-description/manifest and plugin code/instance
+	- [ ] Allow arrow as data system
 - [x] document code
-- [ ] add tests
-- [ ] only unload modules when the underlying data actually changes
+- [ ] Add tests
+- [ ] Add new Plugins
+	- [ ] Kanaries/graphic-walker
+	- [ ] duckdb/wasm
+- [ ] Only unload modules when the underlying data actually changes
 - [x] Support multiple datasets
 - [x] Update module viewer
 	- [x] Use Tabulator for table rendering

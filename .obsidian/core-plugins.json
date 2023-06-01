@@ -4,10 +4,12 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "page-preview",
   "daily-notes",
   "note-composer",
   "command-palette",
+  "bookmarks",
   "word-count",
   "file-recovery"
 ]

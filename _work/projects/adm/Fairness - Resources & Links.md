@@ -1,0 +1,3 @@
+- Interesting Person: https://www.uni-bamberg.de/kogsys/schmid-ute/
+- Workshop w/ recordings: https://simons.berkeley.edu/workshops/schedule/21107
+- 

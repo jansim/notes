@@ -1,0 +1,2 @@
+- Don't ask "what should I do?" questions, say "this is the situation, I would do this, for the following reasons, is that ok?"
+- Have in mind that people don't have time

@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "18d31ef59b537e85",
+    "type": "split",
+    "children": [
+      {
+        "id": "8beaa324f25b051d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54559c4f1d7a6dcd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "06cd701cae7c7c28",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "_work/👀  Tasks.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d018e3ace32cd287",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "511a6839a4b86edd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "37c4cc5d4807492b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "724b90bd4b6b3865",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bf3bd17f734061ae",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bd02a208acb2f1b2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_work/👀  Tasks.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "06cd701cae7c7c28",
+  "lastOpenFiles": [
+    "media/attachments/Screenshot 2023-03-14 at 13.23.50.png",
+    "media/attachments/Screenshot 2023-03-15 at 14.23.24.png",
+    "media/attachments/Screenshot 2023-03-14 at 13.58.59.png",
+    "_work/👀  Tasks.md",
+    "media/attachments/Screenshot 2023-03-15 at 14.28.16.png",
+    "media/attachments/Screenshot 2023-03-14 at 13.15.32.png",
+    "lists & links/3D Printing - Links & Resources.md",
+    "_work/projects/occ/OCC - Abstracts.md",
+    "ideas & projects/low prio/Generative Art.md",
+    "_work/teaching/StatProg 2 - Rmarkdown ecsoystem.excalidraw.md",
+    "_work/talks/Quarto/Quarto - Overview.excalidraw.md",
+    "_work/teaching/StatProg2/Exercise Sheet 1 - Notes after Grading.md",
+    "Untitled 5.md",
+    "ESRA.md",
+    "media/attachments/Screenshot 2023-02-09 at 09.27.16.png",
+    "_work/_meetings/2022-08-05 1st Meeting KIT Git Kurs.md",
+    "media/attachments/2D1A69D3-F2B6-4EE5-8358-F0BC5652960B.jpeg",
+    "media/excalidraw/World Radio Concept.excalidraw.md",
+    "media/attachments/Screenshot 2023-02-09 at 09.16.49.png",
+    "vacations/ideas/Jordanien.md",
+    "_work/applications/2023-01 Zuse School relAI.md",
+    "media/attachments/Screenshot 2023-02-03 at 10.17.29.png",
+    "media/attachments/Screenshot 2023-02-03 at 10.28.12.png",
+    "media/attachments/Screenshot 2023-02-03 at 10.27.14.png",
+    "media/attachments/relai_projektbeschreibung.pdf",
+    "Flow-Kurs.md",
+    "_work/teaching/StatProg2/Session 4 - git.md",
+    "Web Relaunch Meeting.md",
+    "Promotionsbestätigung.md",
+    "_work/applications/2023-02 BIDT Stipendium.md",
+    "lists & links/On Research.md",
+    "vacations/ideas/Romania - Hiking.md",
+    "Psycholotherapie - Ausland.md",
+    "_work/projects/wwl/WWL - Lab Meeting Talk.md",
+    "_work/projects/occ/👷 Occupation Coding.md",
+    "_work/projects/occ/EWCS Reply.md",
+    "life/threads/George Mack - How to get lucky (wihtout being rich).md",
+    "_work/funding"
+  ]
+}

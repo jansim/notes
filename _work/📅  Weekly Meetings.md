@@ -1,9 +1,19 @@
+
 # Upcoming
+
+- Website Update
+	- The new CMS will take a while (at least until next year)
+		- Vllt lässt sich was dran machen??
+	- What now?
+		1. Implement our own website
+		2. wait for update?
+		3. Try to do as much as possible in the current framework
+	- Second question: What changes / contents do we want?
 
 - How to write the SODA / SoDa / soda acronym?
 	- What does it stand for?
 	- Statistics and Data Science in Social Sciences and the Humanities (SODA)
-- 
+
 
 # 2022-08-17
 

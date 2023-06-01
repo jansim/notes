@@ -1,0 +1,2 @@
+- wild camping allowed in Scotland
+- West Highland Way? (154 km von Milngavie bei Glasgow durch die Highlands bis nach Fort William)

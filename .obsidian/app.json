@@ -29,6 +29,12 @@
   "showLineNumber": false,
   "foldHeading": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "media/attachments",
-  "spellcheck": true
+  "attachmentFolderPath": "_internal/media/attachments",
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

@@ -1,0 +1,84 @@
+ ## 2: Hallo R 
+- Was ist R? 📽🛝
+	- Was ist R
+	- Was ist Rstudio (vs R)
+	- Warum überhaupt Programmiersprache für Datenanalyse? -> Reproduziertbarkeit, Effizienz
+- RStudio UI grobe Übersicht 📽
+	- Grundkonzept Befehle/Funktionen -> print / Hallo Welt, sagen dass wir uns - mit Details dessen noch beschäftigen werden.
+	- Sagen dass wir viele Befehle besprechen die spezifisch für die Datenanalyse sind
+	- Wo können Befehle verwendet werden: REPL/Konsole vs. Skripte
+	- Niemand kann alle Befehle auswendig, verlangen wir nicht -> Hilfe nutzen, - googeln, etc.
+	- Autocomplete in Rstudio
+- Erste Befehle in R 📽
+	- Programmieren als Textdokumente mit Befehlen
+		- Evtl. ein existierendes Skript von uns ausführen?
+		- Warum ist eine Programmiersprache so praktisch für Datenanalyse?
+	- Rechnen
+	- Variablen
+	- https://r4ds.had.co.nz/workflow-basics.html
+## 4: Hin zur Visualisierung
+- Was sind packages? 📽
+	- Der mächtigste Teil von R
+	- install.packages, library and ::
+	- Beispiel via {cowsay}?
+	- Vignettes??
+- Was ist das Tidyverse? Eine hilfreiche Sammlung an Packages zur Datenanalyse.
+	- install.packages("tidyverse")
+	- Evtl noch ein bisschen Info dazu
+	- Ihr müsst euch damit noch nicht zu genau auseinander setzen, wir werden die wichtigsten Packages eins nach dem anderen ansprechen, den Rest könnt ihr erstmal ignorieren
+- Was ist ggplot2 📽
+	- https://r4ds.had.co.nz/data-visualisation.html
+		- evtl also https://r4ds.had.co.nz/graphics-for-communication.html
+	- https://psyteachr.github.io/ads-v1/viz.html
+	- Basics of ggplot2
+	- Layers, Aesthetic Mappings
+	- ggplot(), geom_point(), geom_bar(), geom_label()?
+	- evtl. geom_bar?
+	- themes? labs?
+	- Exercises von r4ds
+	- esquisse::esquisser?
+## 6: Intro to Data Wrangling 
+- Der Daten-Analyse Prozess (https://r4ds.had.co.nz/explore-intro.html) 📽🛝
+	- Data Wrangling ist oft der zeitaufwendigste Aspekt
+	- Trotzdem unglaublich wichtig
+- Was ist "tidy" data? 📽🛝
+	- https://r4ds.had.co.nz/tidy-data.html
+	- Macht das Leben und spätere Analysen einfacher
+- Dplyr 1 📽
+	- https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html
+	- dplyr::select()
+		- starts_with, ends_with, ...?
+	- Was sind gute spalten namen?
+	- dplyr::filter()
+		- Includes boolean logic (!)
+	- Nachdem wir 2 funktionen mit dplyr genutzt haben:
+		- Wie nervig, es immer wieder zu speichern -> Pipes to the rescue
+- Dplyr 2 📽
+	- dplyr::slice()
+	- dplyr::rename()
+	- dplyr::mutate()
+	- dplyr::arrange()
+## 8: Long & Wide Data
+- Was sind long / wide daten? 📽🛝
+	- Wofür sind long Daten nützlich? Oft praktisch für rohdaten, Datenspeichern, Daten transformieren
+	- Wofür sind wide Daten nützlich? Besser für Analysen, zum teilen
+- Pivoting 📽
+	- tidyr::pivot_longer
+	- tidyr::pivot_wider
+- *Viele* Beispiele
+- String / Character based 📽
+	- tidyr::extract
+	- tidyr::separate
+	- tidyr::separate_rows
+	- tidyr::unite
+
+
+# Sonst.
+- Datensätze
+	- imdb
+	- starwars
+	- palmer penguins
+	- corona (maybe auch gut weil es packages gibt um live Daten zu laden)
+	- Sth geospatial?
+- On Visualisierung 2
+	- https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/

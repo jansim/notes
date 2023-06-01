@@ -1,4 +1,5 @@
 Immatrikulation: vom **03. Aug. bis 28. Okt. 2022** postalisch bei der Studentenkanzlei
+Immatrikulation: vom **23. Febr. bis 21. April 2023** postalisch bei der Studentenkanzlei
 
 > Vorraussichtlich brauche ich dafür bereits die Bestätigung vom Dekanat (aufwendig und muss man erst mal kriegen!)
 

@@ -1,0 +1,3 @@
+- table / fig reference issues
+- histogram -> not include title as fill
+- 

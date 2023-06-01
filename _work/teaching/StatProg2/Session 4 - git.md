@@ -1,0 +1,15 @@
+
+- Question: Any issues?
+- Intro: Recycle some slides for theory
+- Show hands-on again
+	- Workflow
+		- Create project in Rstudio
+		- Add to github after
+- Practical: Do jointly with everyone
+	- Create Rstudio project
+	- Solve some not too crazy R tasks
+		- Add & Load Data
+		- Create a simple plot?
+		- Commit in between each sub-task (this is our requirement in general)
+	- Add remote to repository
+	- Upload to GitHub

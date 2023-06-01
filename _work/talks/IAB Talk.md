@@ -1,0 +1,35 @@
+## Outline
+
+- occupation coding: the problem
+	- many many jobs -> so we have classification systems (ISCO, KldB)
+	- many categories in these systems -> experts do the coding, post-hoc
+- the solution (1) / the problem (2)
+	- computer assisted tools
+	- simplest version: match via text
+	- data scientist -> barrakuda tauchlehrer
+	- difficulties
+		- highly sensitive data
+		- hard to anonymize (bcs free text)
+		- many categories to classify into
+		- often unclear categories
+		- hard to use between countries (language, often slightly different jobs)
+- our solution: ML based
+	- briefly summarise Malte's paper on algo comparison
+- our solution: during the interview
+	- mention hard to distinguish categories
+	- AuxCo as solution (unique)
+		- developed by Malte
+- the package
+	- developed a new R package "occupationMeasurement"
+	- implements this ML method
+	- comes with training data (anonymized), but only works with this type of model (or closely related ones)
+	- its own interactive web app
+		- you can use your own questionnaires if you so wish to
+		- we have three pre-made ones
+	- API (if e.g. you want to use qualtrics or some other existing tool)
+		- Currently testing this together with forsa
+	- exposes R functions
+- Final page
+	- github url
+	- docs url (as QR code): https://occupationmeasurement.github.io/occupationMeasurement/
+	- Contact

@@ -7,4 +7,5 @@
 ## ToDo
 - Take the Night Train: Sunrise Express
 	- Pretty affordable single rooms "solo" that seem really nice!
+- Kumano Kodo - Pilgrimage trail network 
 - 

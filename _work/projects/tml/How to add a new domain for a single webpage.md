@@ -1,0 +1,29 @@
+- Log into the AWS Console
+- Set up the redirect
+	- Go to Amazon S3
+	- Check that the region is us-east-1 (N. Virginia) in the top right
+	- Click "Create Bucket" to create a new S3 bucket
+	- Use the target domain as the bucket name e.g. musicalbabies.themusiclab.org
+	- Check that the region of the bucket us-east-1 (N. Virginia)
+	- Select copy settings form existing bucket and choose the bucket "kids.themusiclab.org"
+	- Leave the other settings as is and create the bucket by clicking "Create bucket" at the bottom of the form
+	- You should see a list of all S3 buckets again, click the name of the newly created one and you should see its details page now
+	- Click the "Properties" tab
+	- Scroll to the bottom and under "Static website hosting" click "Edit"
+	- Switch the checkbox for "Static website hosting" to "Enable"
+	- Switch the new checkbox for "Hosting type" to "Redirect requests for an object"
+	- Type the URL you want to redirect to e.g. www.themusiclab.org/musicalbabies for the domain musicalbabies.themusiclab.org (Note that there is **no** https:// in front of the URL)
+- Set up the domain
+	- Go to Amazon Route 53
+	- In the Route 53 dashboard click "Hosted Zones"
+	- Click the Domain name "themusiclab.org"
+	- Click the Button "Create Record"
+	- Under Recordname enter the subdomain you want to create for musicalbabies.themusiclab.org you just put in "musicalbabies"
+	- Click the tiny switch named "Alias" so it is on
+	- Click the dropdown under "Route traffic to"
+	- Click "Alias to S3 website endpoint"
+	- Click "Choose Region"
+	- Enter "us-east-1"
+	- Pick the bucket you created earlier
+- 
+	
