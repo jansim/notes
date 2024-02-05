@@ -1,0 +1,19 @@
+- [x] Conny 
+	- Konzert?
+	- Tanztheater?
+		- https://www.pina-bausch.de/de/playtime/1
+		- https://tanzhaus-nrw.de/de/kalender
+	- Cirque du Soleil?
+		- Kurios: https://www.cirquedusoleil.com/kurios
+	- Wasserflasche?
+	- Vogel Poster?
+- [x] Udo
+	- Fancy Wasserflasche?
+	- Aeropress?
+- [ ] Lissi
+	- Duisburger Philharmoniker
+- [x] Björn
+	- Tee Gläser?
+	- Brettspiel
+- [ ] Ria & Bernhard
+	- Schokolade / Pralinen?

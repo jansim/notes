@@ -6,6 +6,16 @@
 - 
 - density via color, heatmap
 
+- predictive multiplicity?! -> equal models; different predictions!
+
+## Facct Rewrite
+
+1. 
+
+### Package
+- https://snakemake.github.io/
+- https://github.com/amakelov/mandala
+
 
 ## FK2RG
 - **Our goal w/ paper:** Often many ad-hoc decisions, make these more explicit and raise awareness. Use multiverse analysis to deal with these in a sturcuted way

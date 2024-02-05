@@ -1,0 +1,5 @@
+- Basic Ticket (12€)
+- [ ] [Freies Schwimmen](https://www.buchung.zhs-muenchen.de/angebote/aktueller_zeitraum_0/_Schwimmen_-_Freies_Schwimmen.html) (20€)
+- [ ] [Scheeschuhtouren (Eintägig)](https://www.buchung.zhs-muenchen.de/angebote/aktueller_zeitraum_0/_Schneeschuhtouren_-_Eintaegig.html)  - nur eine 35€
+- [ ] [Schneeschuhtouren Plus - alpine Lebensräume](https://www.buchung.zhs-muenchen.de/angebote/aktueller_zeitraum_0/_Schneeschuhtouren_Plus_-_alpine_Lebensraeume.html) - longer, more expensive 100€+ (some have difficult timing re conferences)
+- 

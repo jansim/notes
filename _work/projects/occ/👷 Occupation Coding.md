@@ -14,6 +14,28 @@ if we have 3 first digits correct, and the 4th digit is wrong (tool doesn’t ma
 If we assume the manual coding is correct, then occupations with the fourth digit 9 (as given by manual coding) are most likely to be not identified by the tool at all (25% of cases). For other fourth digits auxco isn’t providing suggestions in 10-15% of cases.  
 But if the first four digits are correct (aka manual matches the tool), with the fourth digit being 9, then the fifth digit will also be correct in 38 out of 50 cases we have in the sample. So Malte you were right, that the fifth digit is not that much of a problem for the tool and respondents, but the fourth digit might be.
 
+## Future Ideas
+
+- Occupation Coding Group 14.07.23
+	- FastTest for embedding with NN behind the scenes for classifications
+	- Include Bigrams for better perf
+- 
+
+## ESRA Presentation
+- Meeting on Monday to go over slides in detail
+- Drop the difficulties of occupation coding or just skip in talk
+- Merge 3 & 4??
+	- Occupation coding is hard / issues
+- 10 slides maximum
+- Crowd: More occupation coding, less ML
+- Skip #8 (the algorithm)
+- Could skip #9 (our method) -- if too many slides
+- Make demonstration a priority
+- Merge following sldies into #15 (what's in the toolbox)
+	- make it a fast one
+	- mention that it's on CRAN?
+- Use Schierholz 2021 numbers in earlier performacne slide (red ones)
+
 
 ## Next Meeting
 
