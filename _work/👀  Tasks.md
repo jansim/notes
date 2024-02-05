@@ -6,46 +6,244 @@ kanban-plugin: basic
 
 ## Backlog 📚️
 
-- [ ] Prepare FK2RG presentation on TML
-- [ ] Fairness Lit Review
+- [ ] Reimburse DSSG domain
+- [ ] Where to go with #adm-perception
+- [ ] Ask Moritz Herrmann for lunch (open science @ MCML)
 - [ ] re-view #adm-perception / pitch read more
-- [ ] Find Milan-Hamburg connection (?))
 - [ ] Jan / Feb: Apply to softwarecampus
 - [ ] Lehre Prof kontaktieren (Sven soundso)
 - [ ] Update git material
 - [ ] Reply EWCS
 - [ ] Implement zero inbox
 - [ ] Meet w/ Courtney #tml
-- [ ] TML extracted DB, started / completes is wrong
-- [ ] take denise to Mensa
 - [ ] Write Foundation / Reasoning for Hypotheses #adm-perception
 - [ ] Fill pre-registration for #adm-perception
 - [ ] Record first videos for StatProg2
 - [ ] Write #fairness-multiverse [paper](https://eaamo.org/cfp/)
-- [ ] Register for EWAF2023, submit paper @{2023-05-20}
 
 
 ## ToDo List
 
-- [ ] git Kurs nachbearbeiten
-- [ ] Test #jaspPower vs gpower
-- [ ] R Kurs vorbereiten
-- [ ] Write Blog-Post #jaspPower
-- [ ] Review Psyh Paper
-- [ ] Post-Mortem #adm-perception
+- [ ] Come up with cleaning system for LMU kitchen
+- [ ] Come up with plan re industry advisor for Zuse school
+- [ ] Come up with a longer term plan for #fairness-datasets
+- [ ] Clean code for<br>- [ ] #fairness-multiverse <br>- [ ] #fairness-datasets
+- [ ] Make #wwl robust to errors (don'f fail on a single error!)
+- [ ] Validate name being string in CLIENT #wwl
+- [ ] Revisit API docs (and authentication to them) #wwl
+- [ ] Do litreview for #js-translate
+- [ ] Read up on #nonprob  literature
+- [ ] Create jsPsych/translate
+- [ ] Create plugin to store participant information... jsPsych general?
+- [ ] #git Kurs nachbearbeiten
+- [ ] Add Software to CV + Website
 
 
 ## Next Up 🔥
 
-- [ ] Get started on #wwl @{2023-06-12}
-- [ ] Plan Fritz Putz
-- [ ] Prepare Exercise Sheet #StatProg
+- [ ] Plan Berlin trip<br>- [x] Book things<br>- [ ] Reisekostenantrag<br>- [ ] Get in touch w/ mentoring program
+- [ ] Bewerbung Graduatecenter für Promovierende: https://www.bidt.digital/foerderprogramm/graduate-center-fuer-promovierende/<br><br> @{2024-02-09}
+- [ ] Bewerbung Softwarecampus<br>- [ ] 1.5h Kurs
+- [ ] Wehrpflicht thing senden
+- [ ] Frauke DSSG
 
 
-## Done ✅
+## Done 🎉
 
 **Complete**
+- [x] Finalize Birthday planning<br>- [ ] Buy drinks<br>- [x] Send last info message
+- [x] Update preprint for fairness-multiverse
+- [x] Deploy #wwl for all games
+- [x] Post Umfrage on moodle
+- [x] Update macOS (after reglab thingy)
+- [x] Prepare teatalk ‼️
+- [x] Check out meeting computer at LMU office
+- [x] Prepare RegLab Task
+- [x] Try out chili recipe
+- [x] #website Home Page bilder einfügen<br>- [ ] Team text ändern in kl. Box<br>- [ ] Header Image<br>- [ ] kl Box images
+- [x] Register again as a Student at LMU [Link](https://www.lmu.de/rueckmeldung) #admin
+- [x] Register for EWAF2023, submit paper @{2023-05-20}
+- [x] Update personal Website<br><br>- [x] Add talks / conferences / posters<br>- [x] Add Software<br>- [ ] Update about  text
+- [x] #StatProg prepare abgabe Ü6
+
+
+***
+
+## Archive
+
+- [x] #StatProg grading Ü4
+- [x] Check #dssg money else ask Wiebke
+- [x] Check in for collaboration with Kit Rodolfa / Stanford Reglab
+- [x] Write abstract for #fairness-multiverse
+- [x] Grade #git course
+- [x] Post to soda münchen ask for mitarbeiter fotos
+- [x] maybe sent an email to Kit Rodolfa?
+- [x] #StatProg Ü3 Lennart Michael Lamberts
+- [x] Submit Reisekosten New Orleans<br><br>- [x] Ask for Signed Reisegenehmigung
+- [x] Text Lukas re hikign?
+- [x] Upload #StatProg grades
+- [x] Invite Oma & Opa
+- [x] Grade #StatProg assignment
+- [x] Set up collaboration document for #fairness-multiverse
+- [x] Apply RegLab thingy
+- [x] Plan Birthdayparty
+- [x] Add first results to document for #fairness-datasets
+- [x] Use new SODA name in old #Website
+- [x] Prepare more analysis results for #fairness-datasets
+- [x] Send #StatProg evaluation @{2023-12-13}
+- [x] Fill SODA #website projects doc 😅
+- [x] Extract the secret of free BahnCards from Felix
+- [x] Send out emails to #StatProg students re grads
+- [x] Send out announcement to #StatProg students<br>- Videos are online<br>- Drop-In is later<br>- 21.12. online statt 14.12.
+- [x] Print AFT 2023 poster #fairness-datasets
+- [x] !! StaProg grading Ü2 #StatProg
+- [x] Finalize decision for AFT workshop
+- [x] Set up meeting time to discuss #fairness-multiverse
+- [x] Prepare analyses for #fairness-datasets
+- [x] Send transfertask for #git course
+- [x] Send Rechnung for Advanced #git course
+- [x] Update #fairness-datasets analysis 2 into top-down vs. bottom-up
+- [x] Call Florian Pfisterer
+- [x] Finish last block for advanced #git
+- [x] Second pass of advanced #git
+- [x] Moritz Hardt Slide prep
+- [x] !! Upload videos #StatProg
+- [x] Register Christmas Party https://docs.google.com/spreadsheets/d/1qUmXjucDbjYiZrc5BPVPEmgcrKmImqmSdP7fO5RA4gI/edit#gid=0
+- [x] Send out email for HOC Kurs #git
+- [x] !! Submit NeurIPS Video
+- [x] Get rid of trash
+- [x] Clean floor
+- [x] Geschenk Yegi
+- [x] Call Björn: Weihnachtsgeschenke planen
+- [x] Jakob<br>- Spätabgaben wg. Rproject<br>- E-Mail für fehlende
+- [x] Track annotation progress #fairness-datasets
+- [x] Call Maja
+- [x] Submit NeurIPS WS Poster
+- [x] Record NeruIPS 3min video
+- [x] Create basic studies via envvar #wwl
+- [x] Send application for mentoring program (again lol)
+- [x] Finish StatProg grading
+- [x] StatProg grades eintragen
+- [x] #StatProg record new best practices video (Practical 5)
+- [x] Jobbike https://jobbike-bayern.deutsche-dienstrad.de/
+- [x] Prep teaching #StatProg
+- [x] Post Reviews
+- [x] Send slides BigSurv #fairness-multiverse
+- [x] Send #website update message
+- [x] Prepare Bigsurv Presentation #fairness-multiverse
+- [x] #js-translate data collection
+- [x] Deploy #wwl
+- [x] Set up #wwl data collection
+- [x] Prepare SatML submission #fairness-multiverse<br><br>- [x] Get paper in new format<br>- [x] Use balanced accuracy or F1<br>- [x] Complete new re-run<br>- [x] Add funding information (!))<br>- [x] Re-View paper<br>- [x] Write reply to original review<br>- [x] Check out using balanced accuracy or F1 instead of raw<br>- [x] Do final review of paper<br>- [x] submit 🎉
+- [x] Book hotel + trains Karlsruhe
+- [x] Update annotations sheet #fairness-datasets
+- [x] Put code search into writing #fairness-datasets
+- [x] #StatProg Nachklausur korrigieren
+- [x] Book flights Southamerica<br>- [x] MUC -> LIM (12.10.?)<br>- [x] CZU -> UIO<br>- [x] UIO -> LHR<br>- [x] LHR -> MUC (31.10.; 🌚)
+- [x] Submit AFT2023 #fairness-multiverse #fairness-datasets
+- [x] Prepare AFT 2023 paper #fairness-multiverse @{2023-09-27}
+- [x] Write extended abstract? #fairness-datasets
+- [x] Define high-level API for fairness-datasets
+- [x] Submit SatML abstract @{2023-09-29} #fairness-multiverse
+- [x] Finalize & send recent LMU reimbursement forms 💰️ <br>- [x] Mannheim<br>- [x] EWAF<br>- [x] ESRA<br>- [x] Leiden<br>- [x] Berlin
+- [x] Opt.: Prepare NeurIPS Workshop submission #fairness-multiverse
+- [x] Write #fairness-multiverse NeurIPS workshop abstract
+- [x] Send [[fairness-multiverse - AFT2023@NeurIPS2023]] @{2023-09-22}
+- [x] Fix CRAN issues
+- [x] Deal with AWS updates #tml <br>- [x] PostgreSQL version<br>- [x] Go Lambda Version<br>- [x] Update NAS data export<br>- [x] Security settings<br>- [x] Deploy new version
+- [x] Mit HIWIs Website Zeit besprechen
+- [x] Add docstrings to #fairness-multiverse and clean code
+- [x] Ask re GreenDEA + Robotics
+- [x] Finanzamt anfragen bzgl Freiberufliche Fortbildungen anbieten
+- [x] Re-pot plants #private
+- [x] Clear up room #private
+- [x] Immatrikulieren<br>- [x] Antrag auf Immatrikulation<br>- [x] Annahme als Bewerber<br>- [x] MSc Zeugnis (+ BSc?)<br>- [x] Kopien beglaubigen<br>- [x] Abschicken<br><br>-> Studentenkanzlei
+- [x] add talks / conferences to CV
+- [x] Check whether powershell works w/ git commands
+- [x] Update new covariates plan #tml
+- [x] Reply Alexa
+- [x] Ping Alessandro re new #fairness-datasets sheet
+- [x] Do post-meeting tasks for #js-translate
+- [x] Do first #fairness-datasets annotations
+- [x] Prepare #fairness-datasets annotation process @{2023-08-30}
+- [x] DB Fahrgastrechte abschicken (NL / Berlin / extra fahrt mit Baum?)<br>- [x] Berlin<br>- [x] NL<br>- [x] Baum
+- [x] Fill in #js-translate Trello Card
+- [x] Look at new deployment script options #tml
+- [x] Go swimming #private
+- [x] Do grading for Caro
+- [x] Do Laundry #private
+- [x] Blond tickets?
+- [x] Fill out PhD registration form
+- [x] Send message to #js-translate
+- [x] Book transport to / from Leiden + incl. price comparisons (!))
+- [x] Update #fairness-multiverse paper, based on [reviews](https://docs.google.com/document/d/1MKgoK9SlDxToBjP-N5wiey7CrwNb2wO2z8XYhSPlSB4/edit) @{2023-08-10}
+- [x] Send off PhD sign up forms
+- [x] Update CRAN issue with info
+- [x] Reply JOSS editor
+- [x] Print Camper label
+- [x] Impftermin buchen!!!
+- [x] Register Felix Weber, Aida Kreider and Me for Website Workshop #website
+- [x] Submit #occ package to CRAN
+- [x] Reply relAI consent form
+- [x] Setup copying of data on NAS
+- [x] Send off #big-surv paper @{2023-08-04}
+- [x] Book workshop for #website
+- [x] Grading #StatProg Exercise Sheet 6
+- [x] Book hiking huts #Naomi
+- [x] Reply linkedin
+- [x] Arrange meeting with Florian P.
+- [x] Update Trello-Boards #wwl #tml
+- [x] Meet JoshDeLeeuw?
+- [x] Add proper case study for #fairness-datasets sheet
+- [x] Check git support on Windows (ask Yegi!)
+- [x] Check #datafest checklist
+- [x] Send off sitemap #website
+- [x] Call Mr Schwarz
+- [x] Make decision on advanced #git workshop
+- [x] Send Amazon Return 🎧️
+- [x] Send debrief from Feuerwehr meeting
+- [x] Add News for Frauke #website <br><br>- [LMU NEWS](https://www.lmu.de/de/newsroom/newsuebersicht/news/frauen-in-der-forschung-staerkende-strukturen-schaffen-huerden-abbauen.html)<br>- [video](https://www.youtube.com/watch?v=pbnFtbfMR5I)
+- [x] Reisekostenantrag Lorentz Center
+- [x] Write Frauke re Website
+- [x] Reach out to Schwartz
+- [x] Book hotel Steffen!!
+- [x] Talk w/ Frauke & Christoph re registering PhD & Sam's involvement<br><br>- [ ] Set up date / time<br>- [x] Write up short thesis master-plan<br>- [x] Forward thesis masterplan
+- [x] Set up Agenda for #DSSG meeting on Tuesday
+- [x] Shorten ESRA slides and post in #occ channel
+- [x] Re-View #fairness-datasets sheet and send to Alessandro 📤️
+- [x] Create google sheet for variables to annotate #fairness-datasets
+- [x] write alexa re git course
+- [x] Add software to website & events
+- [x] #StatProg grading
+- [x] Create sitemap #website<br><br>**Scrapped sites:**<br>- About<br>- About/Contact<br>- any teaching information
+- [x] relAI poster
+- [x] Urlaub einreichen
+- [x] Reach out to Amazon re Headphones
+- [x] Action Points Christoph<br><br>- [ ] Update master plan document<br>- [x] Reach out to Alessandro
+- [x] Finish MVP of #wwl
+- [x] Update ESRA slides based on feedback #occ
+- [x] Reach out to Aida re #website
+- [x] Print Poster for #HHAI
+- [x] Get #EWAF travel reimbursement<br><br>-  [x] Scan Breakfast receipt
+- [x] Grade exercise sheet 3 <br>Task 1 - 3a #StatProg <br>@{2023-06-23}
+- [x] StatProg FRIDAY: Ask re exam registration<br><br>- [x] Talk to Elke
+- [x] Find Milan-Hamburg connection (?))
+- [x] StatProg FRIDAY: Do evaluation
+- [x] R Kurs vorbereiten
+- [x] Prepare #StatProg practical
+- [x] Finalize Fritz Putz<br>- [ ] Add pictures<br>- [x] Write final message
+- [x] Prepare StatProg Session 9
+- [x] Create #HHAI poster @{2023-06-15}
+- [x] Get started on #wwl @{2023-06-12}
+- [x] Record Videos #StatProg
+- [x] Prepare Exercise Sheet #StatProg
+- [x] Evaluation ?? #StatProg
+- [x] Record #StatProg videos
+- [x] Inform students re exam registration #StatProg
+- [x] Plan Fritz Putz<br><br>- [x] Packing<br>- [ ] Plan food<br>- [ ] Plan Hikes<br>- [ ] Check whether we can come in early?
+- [x] Review Psyh Paper
 - [x] Prepare #StatProg session
+- [x] Post-Mortem #adm-perception
 - [x] Grading #StatProg
 - [x] Put #StatProg grades in
 - [x] Record #StatProg videos for geospatial
@@ -54,12 +252,6 @@ kanban-plugin: basic
 - [x] Finalize #wwl presentation
 - [x] WA group fritz putz
 - [x] Prepare #wwl presentation
-
-
-***
-
-## Archive
-
 - [x] AW DRV
 - [x] Reply JOSS
 - [x] Talk to Brigitte
@@ -250,6 +442,9 @@ kanban-plugin: basic
 - [x] Übungsblatt fertig machen @{2023-05-19}
 - [x] Putzen
 - [x] In-Person Session vorbereiten @{2023-05-17}
+- [ ] Prepare FK2RG presentation on TML
+- [ ] Fairness Lit Review
+- [ ] Follow up on EWAF<br>- [ ] Meet with TUM people
 
 %% kanban:settings
 ```

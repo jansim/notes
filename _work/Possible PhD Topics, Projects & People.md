@@ -22,7 +22,11 @@
 - 
 
 ## Cool Labs
-- # [Sustainability and artificial intelligence lab](https://sustain.stanford.edu/)
+- ### [Sustainability and artificial intelligence lab](https://sustain.stanford.edu/)
+- ### [Regulation, Evaluation and Governance Lab](https://reglab.stanford.edu/)
+	- Kit Rodolfa krodolfa@law.stanford.edu
+	- DSSG Presentation on Aug31
+- 
 
 ## DataViz
 - Statistical Graphics Professors (Iowa-Background): [www.dicook.org/](http://www.dicook.org/) and [https://www.stat.iastate.edu/people/heike-hofmann](https://www.stat.iastate.edu/people/heike-hofmann)

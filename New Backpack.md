@@ -1,0 +1,5 @@
+- https://www.ospreyeurope.com/shop/de_de/ultralight-stuff-pack
+- https://www.ospreyeurope.com/shop/de_de/osprey-daylite-plus-2021
+- Info on attachments: https://www.outdoorgearlab.com/reviews/camping-and-hiking/daypack/osprey-daylite
+- Aether Plus 70
+- Aether Plus 85

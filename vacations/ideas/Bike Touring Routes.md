@@ -1,3 +1,6 @@
+---
+vacation-type: bike
+---
 ## 🇬🇧 Amsterdam -> UK
 1. Amsterdam
 2. Hoek van Holland

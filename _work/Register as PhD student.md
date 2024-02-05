@@ -13,11 +13,11 @@ Immatrikulation: vom **23. Febr. bis 21. April 2023** postalisch bei der Student
 # [Application for Acceptance](https://www.mathematik-informatik-statistik.uni-muenchen.de/promotion/allgemeines/index.html)
 
 ### 1. Antrag auf Annahme als Bewerber/in (§ 6) mit folgenden Unterlagen:
-- [ ]   Antrag auf Annahme (Formular 1.0) ([excel](https://www.mathematik-informatik-statistik.uni-muenchen.de/downloadformularepromotion2012/formulare_maerz_2020/annahmebewerber_1_0_maerz2020.xls "antragannahmebewerber(1.0)2020Maerz2020"), [pdf](https://www.mathematik-informatik-statistik.uni-muenchen.de/downloadformularepromotion2012/formulare_maerz_2020/annahmebewer_1_0_-maerz2020.pdf "antragannahmebewerber(1.0) Maerz2020"))
+- [x]   Antrag auf Annahme (Formular 1.0) ([excel](https://www.mathematik-informatik-statistik.uni-muenchen.de/downloadformularepromotion2012/formulare_maerz_2020/annahmebewerber_1_0_maerz2020.xls "antragannahmebewerber(1.0)2020Maerz2020"), [pdf](https://www.mathematik-informatik-statistik.uni-muenchen.de/downloadformularepromotion2012/formulare_maerz_2020/annahmebewer_1_0_-maerz2020.pdf "antragannahmebewerber(1.0) Maerz2020"))
 - [ ]   Abiturzeugnis (Kopie ist ausreichend, keine beglaubigte Kopie)
 - [ ]   Abschlussdokumente im ***Original oder beglaubigte Kopie*** (Nachweis nach § 3, Abs.4)  
     - [ ] Urkunde, Zeugnis und Transcript (Bachelor **und** Master)
-- [ ]   Bestätigung Betreuer/in (Betreuer und zwei Unterstützer) (§ 3, Abs. 2, 3b) (Formular 1.1) ([excel](https://www.mathematik-informatik-statistik.uni-muenchen.de/downloadformularepromotion2012/formulare_maerz_2020/befuerworter_betr_1_1maerz2020.xlsx "best-befuerworter-betreuer(1.1)Maerz2020"), [pdf](https://www.mathematik-informatik-statistik.uni-muenchen.de/downloadformularepromotion2012/formulare_maerz_2020/befuerworter-betr_1_1maerz2020.pdf "best-befuerworter-betreuer(1.1)Maerz2020")) oder
+- [x]   Bestätigung Betreuer/in (Betreuer und zwei Unterstützer) (§ 3, Abs. 2, 3b) (Formular 1.1) ([excel](https://www.mathematik-informatik-statistik.uni-muenchen.de/downloadformularepromotion2012/formulare_maerz_2020/befuerworter_betr_1_1maerz2020.xlsx "best-befuerworter-betreuer(1.1)Maerz2020"), [pdf](https://www.mathematik-informatik-statistik.uni-muenchen.de/downloadformularepromotion2012/formulare_maerz_2020/befuerworter-betr_1_1maerz2020.pdf "best-befuerworter-betreuer(1.1)Maerz2020")) oder
 - [ ]   Ggf. Nachweis der bestandenen Promotionseignungsprüfung (§ 4, Abs.1)
 - [ ]   Lebenslauf, der Aufschluss über den wissenschaftlichen Bildungsweg und eine ggf. Berufstätigkeit gibt
 - [ ] 

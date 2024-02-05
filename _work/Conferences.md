@@ -2,7 +2,10 @@
 - EAAMO
 	- Oct / Nov
 	- Deadline CfP: ~ April
-- Facct
+- Facct [2023](https://facctconference.org/2023/)
+	- Conference: June
+	- CFP going live: November
+	- CFP Deadline: February
 - AIES
 - Symposium on the Foundations of Responsible Computing: https://responsiblecomputing.org/call-for-papers/
 

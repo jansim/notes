@@ -1,0 +1,87 @@
+
+- https://www.youtube.com/watch?v=2SoMzx4Otfw
+- https://www.youtube.com/watch?v=00MFb5-BqPc
+- https://www.youtube.com/watch?v=grQDRC6aYFM
+- 
+
+
+
+## 2get
+- [ ] Thunderstruck - AC/DC
+- [x] Cherry Blossom Girl - Air
+- [ ] Follow Me - Andre Ehmann
+- [x] Fine By Me - Andy Grammer
+- [x] When the Sun Goes Down - Arctic Monkeys
+- [x] How Far I'll Go - Auli'i Cravalho
+- [ ] God Is Dead? - Black Sabbath
+- [x] Anti Anti - Bonaparte
+- [ ] Throne - Bring Me The Horizon
+- [x] MANTRA - Bring Me The Horizon
+- [x] Lone Digger - Caravan Palace
+- [ ] We Don't Talk About Bruno - Carolina Gaitán - La Gaita, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto - Cast
+- [ ] Silver Scrapes (As Featured In the ESPN "This Is College GameDay" Spot) - Chronic Crew
+- [x] Giorgio by Moroder - Daft Punk
+- [x] Instant Crush (feat. Julian Casablancas) - Daft Punk
+- [x] Sterrenstof - De Jeugd van Tegenwoordig
+- [ ] Watskeburt?! - De Jeugd van Tegenwoordig
+- [ ] So'ne Musik - Deichkind
+- [ ] 1000 Jahre Bier - Deichkind
+- [ ] Wer Sagt Denn Das? - Deichkind
+- [ ] What Else Can I Do? - Diane Guerrero & Stephanie Beatriz
+- [ ] I Like Birds - Eels
+- [ ] Sunny Road - Emilíana Torrini
+- [ ] Propaganda - Fabri Fibra, Colapesce & Dimartino
+- [ ] Amsterdam - FLEMMING
+- [ ] Carol Brown - Flight of the Conchords
+- [ ] Business Time - Flight of the Conchords
+- [x] Germanium - Foog
+- [ ] La Campanella S.141-3 (List) - Fujiko Hemming
+- [ ] L'amour Toujours - Gigi D'Agostino
+- [ ] The Riddle - Gigi D'Agostino
+- [ ] Bla Bla Bla - Gigi D'Agostino
+- [x] Love333 - Girlpool
+- [ ] Amsterdam - Harris & Ford & 2 Engel & Charlie
+- [ ] Raining Blood - Hot Sugar
+- [ ] Fear of the Dark (Live) - Iron Maiden
+- [x] In Da Getto - J Balvin & Skrillex
+- [x] Cxntour - James Indigo
+- [ ] Lilac Wine - Jeff Buckley
+- [x] Surface Pressure - Jessica Darrow
+- [ ] Carry On Wayward Son - Kansas
+- [ ] Dust In the Wind - Kansas
+- [x] Delalê - Kayhan Kalhor, Salman Gambarov, Aynur & Cemil Qocgiri
+- [x] Vanavond (Uit M'n Bol) - Kris Kross Amsterdam, Donnie & Tino Martin
+- [ ] Silver Scrapes (feat. ProtoShredanoid) - League of Legends
+- [ ] THATS WHAT I WANT - Lil Nas X
+- [ ] Guilty All the Same (feat. Rakim) - LINKIN PARK
+- [x] SUPERMODEL - Måneskin
+- [ ] Ik Ga Zwemmen - Mart Hoogkamer
+- [ ] Sekundenschlaf (Instrumental) - Marteria
+- [ ] Verstrahlt (Instrumental) - Marteria
+- [x] Paradise Circus - Massive Attack
+- [x] The Man with the Red Face - MEUTE
+- [x] You & Me - MEUTE
+- [x] Aquatic - Nora En Pure
+- [ ] Don't Look Back in Anger - Oasis
+- [ ] Swing & A Miss - Oliver Tree
+- [ ] Snowfall - Øneheart & reidenshi
+- [ ] Flamboyant - Pet Shop Boys
+- [ ] Another Brick In the Wall, Pt. 2 - Pink Floyd
+- [ ] Zindabad - Red Baraat
+- [ ] Motherless Child - Romare
+- [ ] Trouble’s Coming - Royal Blood
+- [x] Van Horn - Saint Motel
+- [ ] Two Oruguitas - Sebastián Yatra
+- [ ] Links Rechts - Snollebollekes
+- [ ] Drinkee - Sofi Tukker
+- [x] Awoo (feat. Betta Lemme) - Sofi Tukker
+- [x] Batshit - Sofi Tukker
+- [ ] The Shift - Stand High Patrol
+- [ ] Following the Sun - SUPER-Hi & Neeka
+- [ ] Lost in Yesterday - Tame Impala
+- [ ] Naive - The Kooks
+- [ ] California Dreamin' - The Mamas & The Papas
+- [x] River - Tom Gregory
+- [x] Cornflake Girl - Tori Amos
+- [ ] Shakushain - WEDNESDAY CAMPANELLA
+- [ ] Guns for Hire (From the series Arcane League of Legends) - Woodkid

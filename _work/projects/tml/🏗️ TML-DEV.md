@@ -1,5 +1,16 @@
-- [x] Create jsPsych Singleton somehow
-- [ ] Send Ticket to Kraig
+
+- Using a different prerenderer
+	- https://github.com/Tofandel/prerenderer ??
+
+- IP Ranges
+	- LMU: https://doku.lrz.de/vpn-technik-10745907.html ![[Screenshot 2023-06-14 at 17.49.34.png]]
+	- Yale
+		- Yale's IP addresses are 130.132.0.0/16 and 128.36.0.0/16
+	- Auckland
+		- 130.216.0.0/16
+		- 202.36.244.0/24
+		- 202.37.88.0/24
+
 
 ## iFrames
 

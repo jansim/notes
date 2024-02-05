@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54559c4f1d7a6dcd",
+            "id": "93f6dea9f87d119a",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "kanban",
+              "state": {
+                "file": "_work/👀  Tasks.md"
+              },
               "pinned": true
             }
           },
@@ -21,14 +23,36 @@
             "id": "06cd701cae7c7c28",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8ca6d01782bf998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "_work/👀  Tasks.md"
+                "file": "Industry Mentor or Advisor Zuse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2ecd556e424ada5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🥳 30th Birthday Planning.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,6 +93,16 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "4dca1e0941b65cf5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -83,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_work/👀  Tasks.md",
+            "file": "🥳 30th Birthday Planning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,6 +133,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-map-view:Open map view": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
@@ -108,45 +143,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06cd701cae7c7c28",
+  "active": "a2ecd556e424ada5",
   "lastOpenFiles": [
+    "_work/👀  Tasks.md",
+    "_work/🏃💨 Facct Deadline Sprint.md",
+    "_work/teaching/git/Advanced Git - SS24.md",
+    "_work/teaching/StatProg1/WS23/StatProg WS23 - Scratchpad.md",
+    "talks & meetings/meetings/2023-12-13 fairness-datasets.md",
+    "_work/teaching/git/Advanced Git.md",
+    "Industry Mentor or Advisor Zuse.md",
+    "_work/teaching/git/Git.md",
+    "_work/teaching/git/Outline.md",
+    "_work/projects/wwl/🚧 🌐 World-Wide-Lab.md",
+    "Untitled 8.md",
+    "fairness datasets annotations Progress.md",
+    "talks & meetings/meetings/2023-11-29 fairness-multiverse planning w Christoph.md",
+    "talks & meetings/meetings/2023-11-10 HiWi Interview.md",
+    "talks & meetings/meetings/2023-11-06 Christoph x Jan Checkin.md",
+    "🎄 Geschenke Weihnachten 2023.md",
+    "_work/teaching/StatProg1/WS23/Session 3 - 2023-11-02.md",
+    "untracked/Books.md",
+    "talks & meetings/meetings/2023-10-12 FirstSpirit CMS Workshop.md",
+    "vacations/hikes/2023-10-08 - DE - Unterer Gaisalpsee.md",
+    "vacations/hikes/2023-10-08 - AT - Seebensee.md",
+    "vacations/hikes/2023-10-08 - CH - Oeschinensee.md",
+    "vacations/hikes/⛰️ Overview.md",
+    "vacations/hikes/2023-10-08 - IT - Dolomiti Friulane.md",
+    "vacations/hikes/2023-10-08 - DE - Laber.md",
+    "ZHS Hochschulsport.md",
+    "_internal/media/attachments/Screenshot 2023-07-05 at 10.22.19.png",
+    "_internal/media/attachments/Screenshot 2023-07-05 at 10.49.07.png",
+    "_internal/media/attachments/Screenshot 2023-07-05 at 10.59.23.png",
+    "_internal/media/attachments/Screenshot 2023-06-14 at 17.49.34.png",
     "media/attachments/Screenshot 2023-03-14 at 13.23.50.png",
     "media/attachments/Screenshot 2023-03-15 at 14.23.24.png",
     "media/attachments/Screenshot 2023-03-14 at 13.58.59.png",
-    "_work/👀  Tasks.md",
     "media/attachments/Screenshot 2023-03-15 at 14.28.16.png",
     "media/attachments/Screenshot 2023-03-14 at 13.15.32.png",
-    "lists & links/3D Printing - Links & Resources.md",
-    "_work/projects/occ/OCC - Abstracts.md",
-    "ideas & projects/low prio/Generative Art.md",
-    "_work/teaching/StatProg 2 - Rmarkdown ecsoystem.excalidraw.md",
-    "_work/talks/Quarto/Quarto - Overview.excalidraw.md",
-    "_work/teaching/StatProg2/Exercise Sheet 1 - Notes after Grading.md",
-    "Untitled 5.md",
-    "ESRA.md",
     "media/attachments/Screenshot 2023-02-09 at 09.27.16.png",
-    "_work/_meetings/2022-08-05 1st Meeting KIT Git Kurs.md",
-    "media/attachments/2D1A69D3-F2B6-4EE5-8358-F0BC5652960B.jpeg",
-    "media/excalidraw/World Radio Concept.excalidraw.md",
-    "media/attachments/Screenshot 2023-02-09 at 09.16.49.png",
-    "vacations/ideas/Jordanien.md",
-    "_work/applications/2023-01 Zuse School relAI.md",
-    "media/attachments/Screenshot 2023-02-03 at 10.17.29.png",
-    "media/attachments/Screenshot 2023-02-03 at 10.28.12.png",
-    "media/attachments/Screenshot 2023-02-03 at 10.27.14.png",
     "media/attachments/relai_projektbeschreibung.pdf",
-    "Flow-Kurs.md",
-    "_work/teaching/StatProg2/Session 4 - git.md",
-    "Web Relaunch Meeting.md",
-    "Promotionsbestätigung.md",
-    "_work/applications/2023-02 BIDT Stipendium.md",
-    "lists & links/On Research.md",
-    "vacations/ideas/Romania - Hiking.md",
-    "Psycholotherapie - Ausland.md",
-    "_work/projects/wwl/WWL - Lab Meeting Talk.md",
-    "_work/projects/occ/👷 Occupation Coding.md",
-    "_work/projects/occ/EWCS Reply.md",
-    "life/threads/George Mack - How to get lucky (wihtout being rich).md",
     "_work/funding"
   ]
 }
