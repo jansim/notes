@@ -1,5 +1,0 @@
-- [ ] Reiseantrag or sth
-- [ ] Train: Book yourself
-- [ ] Hotel or AirBnB
-	- [ ] Conference Hotels on ESRA Website (expensive)
-- [ ] Register for ESRA

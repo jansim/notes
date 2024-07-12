@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
@@ -41,7 +41,7 @@ kanban-plugin: basic
 ## Next Up 🔥
 
 - [ ] Prepare #ParticipatoryMultiverse study design
-- [ ] Finish Review behaviour research methods
+- [ ] Finish [[2024-07 Review BRM PocketLabApp PoLA]]
 - [ ] Fix [WWL Docker Test](https://github.com/world-wide-lab/world-wide-lab/actions/runs/9775518795/job/26986078578)
 - [ ] Finalize advanced git kurs
 - [ ] Schedule another relAI talk
@@ -63,7 +63,13 @@ kanban-plugin: basic
 - [x] Setup GH actions for personal website
 - [x] Write wwl deployment instructions
 - [x] Finalize Exercise sheet 6 #StatProg
-- [x] Update any references to preprints to use proper dois.<br><br>- [x] Personal Website<br>- [x] SODA Website<br>- [x] Newsletter<br>- [x] Github Repos<br>- [x] ArXiv
+- [x] Update any references to preprints to use proper dois.
+	
+	- [x] Personal Website
+	- [x] SODA Website
+	- [x] Newsletter
+	- [x] Github Repos
+	- [x] ArXiv
 - [x] Check Wanderschuhe for Steigeisenkompatibilität
 - [x] StatProg grading
 - [x] Review Zuse School
@@ -116,12 +122,17 @@ kanban-plugin: basic
 - [x] Send out message to #StatProg students
 - [x] Write first draft for Nightingale
 - [x] Prepare intro to Python #StatProg
-- [x] Prepare Intro to Python video<br>via https://www.screen.studio/?
+- [x] Prepare Intro to Python video
+	via https://www.screen.studio/?
 - [x] Write UN scope (by END OF WEEK)
-- [x] Discuss next paper ideas with Christoph<br>- [x] CHI Paper?? -> participatory multiverse?
+- [x] Discuss next paper ideas with Christoph
+	- [x] CHI Paper?? -> participatory multiverse?
 - [x] Antrag auf Erstattung Ebook abschicken
 - [x] Antrag auf Reisekostenerstattung pre-CHI abschicken
-- [x] Prepare next #StatProg Session<br>- [x] Upload videos<br>- [x] look into practical<br>- [x] Easystats (video?) -> in practical??
+- [x] Prepare next #StatProg Session
+	- [x] Upload videos
+	- [x] look into practical
+	- [x] Easystats (video?) -> in practical??
 - [x] Finalize FAccT papers
 - [x] Feedback Clara
 - [x] Write #fairness-multiverse reproducible manuscript
@@ -130,7 +141,10 @@ kanban-plugin: basic
 - [x] Upload #fairness-datasets preprint
 - [x] Prepare #Softwarecampus interview @{2024-04-24}
 - [x] Prepare #StatProg grading sheet
-- [x] Send out preprints<br>- [x] HCI Guy SustAInability (multiverse)<br>- [x] relAI Frau (datasets)<br>- [x] ruben (both)
+- [x] Send out preprints
+	- [x] HCI Guy SustAInability (multiverse)
+	- [x] relAI Frau (datasets)
+	- [x] ruben (both)
 - [x] Submit FAccT camera ready (with new plots)
 - [x] Prepare PreCHI demo
 - [x] Clean fairness-datasets overleaf
@@ -161,16 +175,20 @@ kanban-plugin: basic
 - [x] Make #wwl robust to errors (don'f fail on a single error!)
 - [x] Add References for Microsoft Internship
 - [x] Deploy mosaic #fairness-multiverse
-- [x] Finalize mosaic #fairness-multiverse <br>- [x] Run by christoph
+- [x] Finalize mosaic #fairness-multiverse 
+	- [x] Run by christoph
 - [x] Apply for FAccT Doctoral Consortium @{2024-04-04}
 - [x] Reply DSSG
 - [x] Submit Prototype Fund Application
-- [x] Look at Microsoft Internships<br>- [General](https://www.microsoft.com/en-us/research/careers/open-positions/?facet%5Bdate%5D%5Bfixed%5D=any&facet%5Btax%5D%5Bmsr-job-opportunity-type%5D[]=234821&pg=1&sort_by=most-recent)<br>- [Specific](https://jobs.careers.microsoft.com/global/en/job/1606359/Research-Science%3a-PhD-Internship-Opportunities)<br>@{2024-03-30}
+- [x] Look at Microsoft Internships
+	- [General](https://www.microsoft.com/en-us/research/careers/open-positions/?facet%5Bdate%5D%5Bfixed%5D=any&facet%5Btax%5D%5Bmsr-job-opportunity-type%5D[]=234821&pg=1&sort_by=most-recent)
+	- [Specific](https://jobs.careers.microsoft.com/global/en/job/1606359/Research-Science%3a-PhD-Internship-Opportunities)
+	@{2024-03-30}
 - [x] Mail reviews to / reply Christoph
 - [x] Submit EWAF draft
 - [x] Look into [mosaic](https://uwdata.github.io/mosaic/inputs/) for #fairness-multiverse
 - [x] Turn WWL public
-- [x] Write [[Prototype Fund Application]] @{2024-03-22}
+- [x] Write [[2024-05 Prototype Fund Application]] @{2024-03-22}
 - [x] Finalize EWAF draft @{2024-03-26}
 - [x] Re-run fairness multiverse + update repo
 - [x] Add Felix to WWL
@@ -185,9 +203,14 @@ kanban-plugin: basic
 - [x] Copy over cards on basecamp
 - [x] Write EWAF draft @{2024-03-13}
 - [x] Create #WWL export script
-- [x] Review #FAccT craft proposal<br><br>- [x] First time<br>- [x] Second Time
+- [x] Review #FAccT craft proposal
+	
+	- [x] First time
+	- [x] Second Time
 - [x] Deploy #TML #WWL replication
-- [x] Clean code for<br>- [ ] #fairness-multiverse <br>- [ ] #fairness-datasets
+- [x] Clean code for
+	- [ ] #fairness-multiverse 
+	- [ ] #fairness-datasets
 - [x] Write first draft for #FAccT CRAFT thingy
 - [x] Look at #FK2RG drafts
 - [x] Prepare for RegLab Interview No 2 @{2024-03-05}
@@ -208,17 +231,32 @@ kanban-plugin: basic
 - [x] Reach out to Schwarz
 - [x] Join FAccT Slack
 - [x] In Soda schreiben: Projekt contact person + social media info gsheet
-- [x] Bewerbung Graduatecenter für Promovierende: https://www.bidt.digital/foerderprogramm/graduate-center-fuer-promovierende/<br><br>- [x] Support Christioph<br>- [x] Support Frauke<br>- [ ] Send!<br><br> @{2024-02-09}
+- [x] Bewerbung Graduatecenter für Promovierende: https://www.bidt.digital/foerderprogramm/graduate-center-fuer-promovierende/
+	
+	- [x] Support Christioph
+	- [x] Support Frauke
+	- [ ] Send!
+	
+	 @{2024-02-09}
 - [x] Prepare TTT
 - [x] Record first videos for StatProg2
 - [x] Check in with Felix and Jacob re R package idea
 - [x] Reach out to potential #dssg project partner
-- [x] Prepare RegLab Interview<br>- [ ] Read Papers<br>- [ ] Check up on lab<br>- [x] Check a bit on Stanford in general
+- [x] Prepare RegLab Interview
+	- [ ] Read Papers
+	- [ ] Check up on lab
+	- [x] Check a bit on Stanford in general
 - [x] Ping Alessandro
 - [x] Double-Check TTT Sessions
-- [x] Plan Berlin trip<br>- [x] Book things<br>- [x] Reisekostenantrag<br>- [x] Get in touch w/ mentoring program
-- [x] Bewerbung Softwarecampus<br>- [ ] 1.5h Kurs
-- [x] Finalize Birthday planning<br>- [ ] Buy drinks<br>- [x] Send last info message
+- [x] Plan Berlin trip
+	- [x] Book things
+	- [x] Reisekostenantrag
+	- [x] Get in touch w/ mentoring program
+- [x] Bewerbung Softwarecampus
+	- [ ] 1.5h Kurs
+- [x] Finalize Birthday planning
+	- [ ] Buy drinks
+	- [x] Send last info message
 - [x] Update preprint for fairness-multiverse
 - [x] Frauke DSSG
 - [x] Deploy #wwl for all games
@@ -228,10 +266,17 @@ kanban-plugin: basic
 - [x] Check out meeting computer at LMU office
 - [x] Prepare RegLab Task
 - [x] Try out chili recipe
-- [x] #website Home Page bilder einfügen<br>- [ ] Team text ändern in kl. Box<br>- [ ] Header Image<br>- [ ] kl Box images
+- [x] #website Home Page bilder einfügen
+	- [ ] Team text ändern in kl. Box
+	- [ ] Header Image
+	- [ ] kl Box images
 - [x] Register again as a Student at LMU [Link](https://www.lmu.de/rueckmeldung) #admin
 - [x] Register for EWAF2023, submit paper @{2023-05-20}
-- [x] Update personal Website<br><br>- [x] Add talks / conferences / posters<br>- [x] Add Software<br>- [ ] Update about  text
+- [x] Update personal Website
+	
+	- [x] Add talks / conferences / posters
+	- [x] Add Software
+	- [ ] Update about  text
 - [x] #StatProg prepare abgabe Ü6
 - [x] #StatProg grading Ü4
 - [x] Check #dssg money else ask Wiebke
@@ -241,7 +286,9 @@ kanban-plugin: basic
 - [x] Post to soda münchen ask for mitarbeiter fotos
 - [x] maybe sent an email to Kit Rodolfa?
 - [x] #StatProg Ü3 Lennart Michael Lamberts
-- [x] Submit Reisekosten New Orleans<br><br>- [x] Ask for Signed Reisegenehmigung
+- [x] Submit Reisekosten New Orleans
+	
+	- [x] Ask for Signed Reisegenehmigung
 - [x] Text Lukas re hikign?
 - [x] Upload #StatProg grades
 - [x] Invite Oma & Opa
@@ -256,7 +303,10 @@ kanban-plugin: basic
 - [x] Fill SODA #website projects doc 😅
 - [x] Extract the secret of free BahnCards from Felix
 - [x] Send out emails to #StatProg students re grads
-- [x] Send out announcement to #StatProg students<br>- Videos are online<br>- Drop-In is later<br>- 21.12. online statt 14.12.
+- [x] Send out announcement to #StatProg students
+	- Videos are online
+	- Drop-In is later
+	- 21.12. online statt 14.12.
 - [x] Print AFT 2023 poster #fairness-datasets
 - [x] !! StaProg grading Ü2 #StatProg
 - [x] Finalize decision for AFT workshop
@@ -277,7 +327,9 @@ kanban-plugin: basic
 - [x] Clean floor
 - [x] Geschenk Yegi
 - [x] Call Björn: Weihnachtsgeschenke planen
-- [x] Jakob<br>- Spätabgaben wg. Rproject<br>- E-Mail für fehlende
+- [x] Jakob
+	- Spätabgaben wg. Rproject
+	- E-Mail für fehlende
 - [x] Track annotation progress #fairness-datasets
 - [x] Call Maja
 - [x] Submit NeurIPS WS Poster
@@ -296,30 +348,61 @@ kanban-plugin: basic
 - [x] #js-translate data collection
 - [x] Deploy #wwl
 - [x] Set up #wwl data collection
-- [x] Prepare SatML submission #fairness-multiverse<br><br>- [x] Get paper in new format<br>- [x] Use balanced accuracy or F1<br>- [x] Complete new re-run<br>- [x] Add funding information (!))<br>- [x] Re-View paper<br>- [x] Write reply to original review<br>- [x] Check out using balanced accuracy or F1 instead of raw<br>- [x] Do final review of paper<br>- [x] submit 🎉
+- [x] Prepare SatML submission #fairness-multiverse
+	
+	- [x] Get paper in new format
+	- [x] Use balanced accuracy or F1
+	- [x] Complete new re-run
+	- [x] Add funding information (!))
+	- [x] Re-View paper
+	- [x] Write reply to original review
+	- [x] Check out using balanced accuracy or F1 instead of raw
+	- [x] Do final review of paper
+	- [x] submit 🎉
 - [x] Book hotel + trains Karlsruhe
 - [x] Update annotations sheet #fairness-datasets
 - [x] Put code search into writing #fairness-datasets
 - [x] #StatProg Nachklausur korrigieren
-- [x] Book flights Southamerica<br>- [x] MUC -> LIM (12.10.?)<br>- [x] CZU -> UIO<br>- [x] UIO -> LHR<br>- [x] LHR -> MUC (31.10.; 🌚)
+- [x] Book flights Southamerica
+	- [x] MUC -> LIM (12.10.?)
+	- [x] CZU -> UIO
+	- [x] UIO -> LHR
+	- [x] LHR -> MUC (31.10.; 🌚)
 - [x] Submit AFT2023 #fairness-multiverse #fairness-datasets
 - [x] Prepare AFT 2023 paper #fairness-multiverse @{2023-09-27}
 - [x] Write extended abstract? #fairness-datasets
 - [x] Define high-level API for fairness-datasets
 - [x] Submit SatML abstract @{2023-09-29} #fairness-multiverse
-- [x] Finalize & send recent LMU reimbursement forms 💰️ <br>- [x] Mannheim<br>- [x] EWAF<br>- [x] ESRA<br>- [x] Leiden<br>- [x] Berlin
+- [x] Finalize & send recent LMU reimbursement forms 💰️ 
+	- [x] Mannheim
+	- [x] EWAF
+	- [x] ESRA
+	- [x] Leiden
+	- [x] Berlin
 - [x] Opt.: Prepare NeurIPS Workshop submission #fairness-multiverse
 - [x] Write #fairness-multiverse NeurIPS workshop abstract
 - [x] Send [[fairness-multiverse - AFT2023@NeurIPS2023]] @{2023-09-22}
 - [x] Fix CRAN issues
-- [x] Deal with AWS updates #tml <br>- [x] PostgreSQL version<br>- [x] Go Lambda Version<br>- [x] Update NAS data export<br>- [x] Security settings<br>- [x] Deploy new version
+- [x] Deal with AWS updates #tml 
+	- [x] PostgreSQL version
+	- [x] Go Lambda Version
+	- [x] Update NAS data export
+	- [x] Security settings
+	- [x] Deploy new version
 - [x] Mit HIWIs Website Zeit besprechen
 - [x] Add docstrings to #fairness-multiverse and clean code
 - [x] Ask re GreenDEA + Robotics
 - [x] Finanzamt anfragen bzgl Freiberufliche Fortbildungen anbieten
 - [x] Re-pot plants #private
 - [x] Clear up room #private
-- [x] Immatrikulieren<br>- [x] Antrag auf Immatrikulation<br>- [x] Annahme als Bewerber<br>- [x] MSc Zeugnis (+ BSc?)<br>- [x] Kopien beglaubigen<br>- [x] Abschicken<br><br>-> Studentenkanzlei
+- [x] Immatrikulieren
+	- [x] Antrag auf Immatrikulation
+	- [x] Annahme als Bewerber
+	- [x] MSc Zeugnis (+ BSc?)
+	- [x] Kopien beglaubigen
+	- [x] Abschicken
+	
+	-> Studentenkanzlei
 - [x] add talks / conferences to CV
 - [x] Check whether powershell works w/ git commands
 - [x] Update new covariates plan #tml
@@ -328,7 +411,10 @@ kanban-plugin: basic
 - [x] Do post-meeting tasks for #js-translate
 - [x] Do first #fairness-datasets annotations
 - [x] Prepare #fairness-datasets annotation process @{2023-08-30}
-- [x] DB Fahrgastrechte abschicken (NL / Berlin / extra fahrt mit Baum?)<br>- [x] Berlin<br>- [x] NL<br>- [x] Baum
+- [x] DB Fahrgastrechte abschicken (NL / Berlin / extra fahrt mit Baum?)
+	- [x] Berlin
+	- [x] NL
+	- [x] Baum
 - [x] Fill in #js-translate Trello Card
 - [x] Look at new deployment script options #tml
 - [x] Go swimming #private
@@ -364,12 +450,19 @@ kanban-plugin: basic
 - [x] Make decision on advanced #git workshop
 - [x] Send Amazon Return 🎧️
 - [x] Send debrief from Feuerwehr meeting
-- [x] Add News for Frauke #website <br><br>- [LMU NEWS](https://www.lmu.de/de/newsroom/newsuebersicht/news/frauen-in-der-forschung-staerkende-strukturen-schaffen-huerden-abbauen.html)<br>- [video](https://www.youtube.com/watch?v=pbnFtbfMR5I)
+- [x] Add News for Frauke #website 
+	
+	- [LMU NEWS](https://www.lmu.de/de/newsroom/newsuebersicht/news/frauen-in-der-forschung-staerkende-strukturen-schaffen-huerden-abbauen.html)
+	- [video](https://www.youtube.com/watch?v=pbnFtbfMR5I)
 - [x] Reisekostenantrag Lorentz Center
 - [x] Write Frauke re Website
 - [x] Reach out to Schwartz
 - [x] Book hotel Steffen!!
-- [x] Talk w/ Frauke & Christoph re registering PhD & Sam's involvement<br><br>- [ ] Set up date / time<br>- [x] Write up short thesis master-plan<br>- [x] Forward thesis masterplan
+- [x] Talk w/ Frauke & Christoph re registering PhD & Sam's involvement
+	
+	- [ ] Set up date / time
+	- [x] Write up short thesis master-plan
+	- [x] Forward thesis masterplan
 - [x] Set up Agenda for #DSSG meeting on Tuesday
 - [x] Shorten ESRA slides and post in #occ channel
 - [x] Re-View #fairness-datasets sheet and send to Alessandro 📤️
@@ -377,23 +470,39 @@ kanban-plugin: basic
 - [x] write alexa re git course
 - [x] Add software to website & events
 - [x] #StatProg grading
-- [x] Create sitemap #website<br><br>**Scrapped sites:**<br>- About<br>- About/Contact<br>- any teaching information
+- [x] Create sitemap #website
+	
+	**Scrapped sites:**
+	- About
+	- About/Contact
+	- any teaching information
 - [x] relAI poster
 - [x] Urlaub einreichen
 - [x] Reach out to Amazon re Headphones
-- [x] Action Points Christoph<br><br>- [ ] Update master plan document<br>- [x] Reach out to Alessandro
+- [x] Action Points Christoph
+	
+	- [ ] Update master plan document
+	- [x] Reach out to Alessandro
 - [x] Finish MVP of #wwl
 - [x] Update ESRA slides based on feedback #occ
 - [x] Reach out to Aida re #website
 - [x] Print Poster for #HHAI
-- [x] Get #EWAF travel reimbursement<br><br>-  [x] Scan Breakfast receipt
-- [x] Grade exercise sheet 3 <br>Task 1 - 3a #StatProg <br>@{2023-06-23}
-- [x] StatProg FRIDAY: Ask re exam registration<br><br>- [x] Talk to Elke
+- [x] Get #EWAF travel reimbursement
+	
+	-  [x] Scan Breakfast receipt
+- [x] Grade exercise sheet 3 
+	Task 1 - 3a #StatProg 
+	@{2023-06-23}
+- [x] StatProg FRIDAY: Ask re exam registration
+	
+	- [x] Talk to Elke
 - [x] Find Milan-Hamburg connection (?))
 - [x] StatProg FRIDAY: Do evaluation
 - [x] R Kurs vorbereiten
 - [x] Prepare #StatProg practical
-- [x] Finalize Fritz Putz<br>- [ ] Add pictures<br>- [x] Write final message
+- [x] Finalize Fritz Putz
+	- [ ] Add pictures
+	- [x] Write final message
 - [x] Prepare StatProg Session 9
 - [x] Create #HHAI poster @{2023-06-15}
 - [x] Get started on #wwl @{2023-06-12}
@@ -402,7 +511,12 @@ kanban-plugin: basic
 - [x] Evaluation ?? #StatProg
 - [x] Record #StatProg videos
 - [x] Inform students re exam registration #StatProg
-- [x] Plan Fritz Putz<br><br>- [x] Packing<br>- [ ] Plan food<br>- [ ] Plan Hikes<br>- [ ] Check whether we can come in early?
+- [x] Plan Fritz Putz
+	
+	- [x] Packing
+	- [ ] Plan food
+	- [ ] Plan Hikes
+	- [ ] Check whether we can come in early?
 - [x] Review Psyh Paper
 - [x] Prepare #StatProg session
 - [x] Post-Mortem #adm-perception
@@ -419,7 +533,11 @@ kanban-plugin: basic
 - [x] Talk to Brigitte
 - [x] Read up on fairness perceptions
 - [x] Übungsblatt 1 korrigieren #StatProg
-- [x] #EWAF Copyright<br><br>- [ ] Jan<br>- [ ] Florian<br>- [ ] Christoph
+- [x] #EWAF Copyright
+	
+	- [ ] Jan
+	- [ ] Florian
+	- [ ] Christoph
 - [x] Book EWAF hotel
 - [x] Book ESRA hotel
 - [ ] Schwartz / Pfrang meeting
@@ -445,17 +563,27 @@ kanban-plugin: basic
 - [ ] Organize Datafest career fair
 - [ ] Organize helper schedule for #datafest
 - [ ] Send career fair info
-- [ ] Send CareerFair Email<br>- Location<br>- My Phone No<br>- Wie viel Platz pro Company
+- [ ] Send CareerFair Email
+	- Location
+	- My Phone No
+	- Wie viel Platz pro Company
 - [ ] Submit abstract HHAI 2023 Munich @{2023-03-31}#fairness-multiverse
 - [ ] Send helper info
-- [ ] **Create datafest website**<br><br>- https://ww2.amstat.org/education/datafest/
+- [ ] **Create datafest website**
+	
+	- https://ww2.amstat.org/education/datafest/
 - [ ] AKDB via LMU
 - [ ] Talk to Wiebke re Aost nummer
-- [ ] AW AKDB<br>- CareerFair<br>- Jury?<br>- Logo<br>- Financing
+- [ ] AW AKDB
+	- CareerFair
+	- Jury?
+	- Logo
+	- Financing
 - [ ] Talk to Wiebke re financing of extra sponsor
 - [ ] Ping Josh re starting w/ Josh and run design by him
 - [ ] Submit abstract to BigSurv2023 #fairness-multiverse @{2023-03-14}
-- [ ] Send financing info to AKDB<br>- Finance via LMU
+- [ ] Send financing info to AKDB
+	- Finance via LMU
 - [ ] Ping all the extra Hiwis and plan them in!!
 - [ ] Submit paper to JOSS @{2023-03-30}
 - [ ] Talk to Wiebke on how many desks we want / when we would need them + chairs
@@ -463,7 +591,12 @@ kanban-plugin: basic
 - [ ] run full #fairness-multiverse analysis
 - [ ] Ask Yannick re DataFest Jury
 - [ ] Design #occ figure
-- [ ] Recruit people for #datafest (one-to-one!!)<br><br>- [ ] Alex<br>- [ ] Henri (?)<br>- [ ] Segio<br>- [ ] Giacomo
+- [ ] Recruit people for #datafest (one-to-one!!)
+	
+	- [ ] Alex
+	- [ ] Henri (?)
+	- [ ] Segio
+	- [ ] Giacomo
 - [ ] Prep LabMeeting Slides for TML
 - [ ] Re-View DSSG Scopes
 - [ ] Look at functional ANOVA #fairness-multiverse
@@ -484,13 +617,23 @@ kanban-plugin: basic
 - [ ] Check in w/ Jacob re Nachklausur
 - [ ] Send E-Mail to MCML
 - [ ] Grade Übungsblätter
-- [ ] Send off Lehrverpflichtungs-Info<br>- [ ] check in w/ Wiebke re Verpflichtung in my Contract<br>- [ ] Check in w/ #teaching on how to phrase stuff
-- [ ] Draft E-Mail to get volunteers for DataFest<br>- [x] send
+- [ ] Send off Lehrverpflichtungs-Info
+	- [ ] check in w/ Wiebke re Verpflichtung in my Contract
+	- [ ] Check in w/ #teaching on how to phrase stuff
+- [ ] Draft E-Mail to get volunteers for DataFest
+	- [x] send
 - [ ] Read / Comment on Jack's DSSG Comments
 - [ ] Create Exam questions for StatProg
-- [ ] **SEND BIDT**<br>- [ ] Ask Yvonne for Signature
-- [ ] [Create datafest sponsoring sheet](https://docs.google.com/spreadsheets/d/1z-QuCD_FlPX-39IjLywGSJhfiBEJVZHrBD1AoPlL8Zw/edit#gid=0)<br>- [ ] check with Sekreteriat<br>- [x] check websites<br>- [x] check chat w/ malte & christoph
-- [ ] Jan: Apply to [[2023-02 BIDT Stipendium]]<br>(needs Frauke)<br>@{2023-02-09}<br>http://www.bidt.digital/foerderprogramm/graduate-center-fuer-promovierende/
+- [ ] **SEND BIDT**
+	- [ ] Ask Yvonne for Signature
+- [ ] [Create datafest sponsoring sheet](https://docs.google.com/spreadsheets/d/1z-QuCD_FlPX-39IjLywGSJhfiBEJVZHrBD1AoPlL8Zw/edit#gid=0)
+	- [ ] check with Sekreteriat
+	- [x] check websites
+	- [x] check chat w/ malte & christoph
+- [ ] Jan: Apply to [[2023-02 BIDT Stipendium]]
+	(needs Frauke)
+	@{2023-02-09}
+	http://www.bidt.digital/foerderprogramm/graduate-center-fuer-promovierende/
 - [ ] DateFest website Public @{2023-02-09}
 - [ ] [EWAF 2-pager](https://sites.google.com/view/ewaf23/call-for-papers?authuser=0) @{2023-02-07} DL9.2. #fairness-multiverse
 - [ ] Reach out to Website People for ETA
@@ -500,7 +643,12 @@ kanban-plugin: basic
 - [ ] Review Lab-Blatt 13 @{2023-01-30}
 - [ ] Reach out to Katharina
 - [ ] Reach out to Frauke !!
-- [ ] **StatProg 1**<br>- [x] Prepare video contents<br>- [x] Record videos (BY MONDAY))<br>- [x] Prepare Lab-Blatt No. 1<br>- [x] Prepare Lab-Blatt No. 2<br>- [x] Prepare Übungsblatt
+- [ ] **StatProg 1**
+	- [x] Prepare video contents
+	- [x] Record videos (BY MONDAY))
+	- [x] Prepare Lab-Blatt No. 1
+	- [x] Prepare Lab-Blatt No. 2
+	- [x] Prepare Übungsblatt
 - [ ] git Kurs korrigieren
 - [ ] Update #occ  documentation
 - [ ] Reisekoste ausdrucken und Yvonne bringen
@@ -516,13 +664,27 @@ kanban-plugin: basic
 - [ ] Record more intro-to-R videos
 - [ ] Write paper pitch for #adm-perception
 - [ ] Remind Frauke re Ref Letter
-- [ ] Prepare for next meeting on ADM perception<br><br>- [ ] Finish Review Article<br>- [x] Look into Book "Humans Judging Machines"
+- [ ] Prepare for next meeting on ADM perception
+	
+	- [ ] Finish Review Article
+	- [x] Look into Book "Humans Judging Machines"
 - [ ] View Übungsblatt 5
-- [ ] Prepare IAB Talk<br><br>- [x] Add performance Info, ask Malte re one point
-- [ ] Sent mentorship program application (incl. cover letter), [Link](https://www.mathematik-informatik-statistik.uni-muenchen.de/mentorin/bewerbung-2023/index.html) **By 15.1.**<br><br>- [X] First draft<br>- [x] Re-View cover letter<br>- [x] Send application (BY MONDAY)
-- [ ] - [x] Prepare Zuse Documents<br>- [ ] Finalize Zuse Documents (v1)<br>- [ ] Send Zuse docs to profs<br>- [ ] Submit Zuse Docs
+- [ ] Prepare IAB Talk
+	
+	- [x] Add performance Info, ask Malte re one point
+- [ ] Sent mentorship program application (incl. cover letter), [Link](https://www.mathematik-informatik-statistik.uni-muenchen.de/mentorin/bewerbung-2023/index.html) **By 15.1.**
+	
+	- [X] First draft
+	- [x] Re-View cover letter
+	- [x] Send application (BY MONDAY)
+- [ ] - [x] Prepare Zuse Documents
+	- [ ] Finalize Zuse Documents (v1)
+	- [ ] Send Zuse docs to profs
+	- [ ] Submit Zuse Docs
 - [ ] Neue Version der Website anfragen
-- [ ] [Apply to Zuse School](https://zuseschoolrelai.de/application/)<br><br>**BY 9.1.**
+- [ ] [Apply to Zuse School](https://zuseschoolrelai.de/application/)
+	
+	**BY 9.1.**
 - [ ] Übungsblatt 4 fertigstellen
 - [ ] Create Datafest Website
 - [ ] Book hotel Nürnberg
@@ -606,13 +768,15 @@ kanban-plugin: basic
 - [x] In-Person Session vorbereiten @{2023-05-17}
 - [ ] Prepare FK2RG presentation on TML
 - [ ] Fairness Lit Review
-- [ ] Follow up on EWAF<br>- [ ] Meet with TUM people
+- [ ] Follow up on EWAF
+	- [ ] Meet with TUM people
 - [ ] Next steps for #fairness-datasets
 - [ ] Apply for [Northeaster Summer Internship](https://cssh.northeastern.edu/ethics/2024-summer-research-internship/)
-- [x] StatProg Practical<br>- Highlight people should say sth if no grade received
+- [x] StatProg Practical
+	- Highlight people should say sth if no grade received
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","show-relative-date":true,"hide-date-in-title":true,"new-line-trigger":"shift-enter"}
+{"kanban-plugin":"board","show-relative-date":true,"hide-date-in-title":true,"new-line-trigger":"shift-enter"}
 ```
 %%
