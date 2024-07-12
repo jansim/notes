@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "585ae98f4c44fc56",
+        "id": "2f1f363b566bb6d8",
         "type": "tabs",
         "children": [
           {
-            "id": "46efa3737b7f8cbb",
+            "id": "81e29908ee3d6f26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "untracked/mus.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "untracked/mus.md"
+              }
             }
           }
         ]
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "untracked/mus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,49 +182,49 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "46efa3737b7f8cbb",
+  "active": "300414035b8deac3",
   "lastOpenFiles": [
-    "_work/teaching/git/Advanced Git.md",
-    "_work/teaching/git/Advanced Git - SS24.md",
-    "_work/👀  Tasks.md",
-    "Hiking Destinations.md",
-    "Untitled.md",
-    "xx.md",
-    "Meeting Kristof Meding.md",
-    "vacations/hikes/⛰️ Overview.md",
-    "DRA Docker x Container Video.md",
-    "git bisect example.md",
-    "Untitled 13.md",
-    "_work/TML.md",
-    "Notes on Teaching.md",
-    "24-06-27 Meeting with Sam.md",
-    "Mainz EWAF Planung.md",
-    "Review BRM PocketLabApp PoLA.md",
+    "PhD & PostDoc Links.md",
+    "ToWatch - Youtube.md",
+    "Flow-Kurs.md",
+    "Scratchpad Test Thingy.md",
+    "untracked/Gardening.md",
     "Meeting with Sam.md",
-    "Agenda.md",
-    "Untitled 10.md",
-    "_work/projects/wwl/🚧 🌐 World-Wide-Lab.md",
-    "Brazil Itinerary.md",
-    "Koffer Unai.md",
-    "IOM Call.md",
-    "_work/Urlaubsplanung LMU.md",
-    "_work/applications/Software Campus/2024-05 SoftwareCampus Feedback.md",
-    "UN ChatBot Hayoi Chen.md",
+    "_work/projects/_old/datafest/infas 360 daten.md",
+    "Notes on Teaching.md",
+    "Hiwi Meeting.md",
+    "ADM Meeting Feedback.md",
+    "DSSGx Munich Projects Email.md",
+    "_work/projects/dssg/UN DSSG Projekt.md",
+    "_work/projects/dssg/UN ChatBot Hayoi Chen.md",
+    "_work/reviews/2024-07 Review BRM PocketLabApp PoLA.md",
+    "Temp.md",
+    "_work/applications/2024-05 Prototype Fund Application.md",
+    "_work/projects/dssg/IOM Call.md",
+    "Promotionsbestätigung.md",
+    "_work/Uncertainty.md",
+    "_work/Untitled.md",
+    "_work/projects/_old",
+    "_work/projects/dssg",
+    "_work/projects/_old/datafest",
+    "_work/👀  Tasks.md",
+    "_work/reviews/2024-04 EWAF 2024 Review.md",
+    "_internal/archive/ZHS Hochschulsport.md",
+    "Psycholotherapie - Ausland.md",
+    "_internal/archive/ZHS.md",
+    "Wiebke.md",
+    "vacations/Untitled",
+    "_work/projects/fairml/old",
+    "_work/teaching/dra/2024-06 HDRUK-Videos",
+    "_work/applications/Untitled",
+    "_work/reviews",
     "_work/applications/Software Campus",
     "_work/teaching/dra",
-    "_work/admin",
-    "flyspots",
-    "_work/teaching/StatProg1/WS23",
-    "_work/teaching/StatProg1/WS22",
-    "vacations/hikes",
     "_work/🖼️ Work - Overview.canvas",
     "_internal/media/attachments/Screenshot 2023-07-05 at 10.59.23.png",
     "_internal/media/attachments/Screenshot 2023-07-05 at 10.49.07.png",
     "_internal/media/attachments/Screenshot 2023-07-05 at 10.22.19.png",
     "_internal/media/attachments/Screenshot 2023-06-14 at 17.49.34.png",
-    "talks & meetings/talks/2022",
-    "talks & meetings/talks/2021",
-    "talks & meetings/meetings/2023",
     "_internal/media/attachments/Screenshot 2023-03-15 at 14.28.16.png",
     "_internal/media/attachments/Screenshot 2023-03-15 at 14.23.24.png",
     "_internal/media/attachments/Screenshot 2023-03-14 at 13.58.59.png",

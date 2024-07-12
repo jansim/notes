@@ -1,3 +1,0 @@
-- aleatoric: data-inherent uncertainty
-- epistemic: model uncertainty 
-- 

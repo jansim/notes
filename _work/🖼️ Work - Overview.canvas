@@ -2,7 +2,7 @@
 	"nodes":[
 		{"type":"file","file":"_work/👀  Tasks.md","id":"a562dceab7716da4","x":-405,"y":-470,"width":400,"height":400},
 		{"type":"text","text":"Late Stage","id":"41102a600ef505fe","x":159,"y":-500,"width":250,"height":60,"color":"1"},
-		{"type":"file","file":"_work/projects/occ/👷 Occupation Coding.md","id":"e401ac4b33ec57f1","x":159,"y":-410,"width":400,"height":400},
+		{"type":"file","file":"_work/projects/_old/occ/👷 Occupation Coding.md","id":"e401ac4b33ec57f1","x":159,"y":-410,"width":400,"height":400},
 		{"type":"text","text":"Full Throttle","id":"73336c1667210de0","x":687,"y":-500,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"Early Stage","id":"ae55a2562bfaf383","x":1190,"y":-500,"width":250,"height":60,"color":"5"},
 		{"type":"file","file":"_work/projects/tml/🏗️ TML-DEV.md","id":"97378881c3c34887","x":159,"y":49,"width":400,"height":400},

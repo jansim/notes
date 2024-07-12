@@ -1,4 +1,0 @@
-- Battery Health 79%
-- https://www.rebuy.de/verkaufen/p/apple-iphone-x/10727041?from=unlock
-	- 84,72€
-- 
