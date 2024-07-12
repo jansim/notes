@@ -1,0 +1,4 @@
+- use z-anatomy data
+	- data linked here: https://github.com/LluisV/Z-Anatomy
+- Just create usdz files?
+- Use RealityComposer App to add interactivity?

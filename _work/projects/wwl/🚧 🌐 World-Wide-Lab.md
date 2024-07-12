@@ -1,3 +1,25 @@
+
+
+## landing page
+
+- cobe globe package
+#### alternatives
+- https://labelstud.io/
+- https://www.project-redcap.org/
+- pushkin
+- pavlovia
+- open sesame
+- Distant
+	- https://github.com/argilla-io/argilla - data curation platform?! originally active learning platform
+
+- Label Studio
+- https://github.com/heyform/heyform
+- Automatically generating metadata
+	- Data Provenance
+		- https://mit-genai.pubpub.org/pub/uk7op8zs/release/2
+	- FAIR Data principles
+
+Fingerprint js library?
 - Find a name?! Describe in 2 - 3 sentences then ask for name in #general?
 - viral, game, citizen science
 - extra resiliency features?
@@ -8,7 +30,7 @@
 	- https://docs.argilla.io/en/latest/reference/webapp/pages.html
 		- JS / TS version incoming
 - On attracting traction: https://plane.so/blog/how-we-got-to-20k-github-stars
-- 
+- ?? https://cla-assistant.io/
 
 - [x] Should it be possible to have runs without a participant?
 
@@ -17,8 +39,21 @@
 
 - interactive API docs?: https://github.com/scalar/scalar
 
-## Questions Sam
-- [x] do we need started for runs?
+
+- for machine learning -> ONNX (Web)?
+## Templates
+- Single HTML Page with jsPsych experiment + integration
+	- Base this off the simplest jsPsych example availble
+- Static Website example
+	- landing page with some nice experiment tiles (should work w/ and w/o image)
+		- title
+		- description
+		- optional: estimated time
+		- optional: image / logo
+	- configurable via secondary js / json
+	- includes local files for libraries
+	- includes the same example html as the single page, but uses local libraries instead
+- 
 
 ## ToDo
 - Playwright for Admin UI / Electron tests??
@@ -148,6 +183,9 @@ Provide data in study/finish.??
 	- [ ] For different participants
 	- [ ] Visibility of studies??
 
+- Nice docs: https://github.com/squidfunk/mkdocs-material
+- 
+
 
 Plugin Use Case
 - Stimulus management
@@ -166,6 +204,11 @@ Plugin Use Case
 	- Data Donation:
 		- [Port](https://github.com/eyra/port) built by https://eyra.co/ (Company doing RSE)
 		- DataDonationModule https://github.com/uzh/ddm by Uni Zürich
+
+### other citizen science stuff
+- KInsecta - https://gitlab.com/kinsecta
+- 
+
 
 
 ## Requirements

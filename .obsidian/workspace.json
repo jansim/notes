@@ -4,124 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4a43139024f49bc7",
+        "id": "77fdaac51e5bd4bc",
         "type": "tabs",
         "children": [
           {
-            "id": "271ff39d3a27c01a",
+            "id": "15a595177abe108c",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "_work/👀  Tasks.md"
-              },
-              "pinned": true
+                "file": "_work/teaching/git/Advanced Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "3b1dc3a38e9534dc",
+            "id": "93af1ab034f28c58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_work/teaching/git/Advanced Git - SS24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3182e2090f692f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "talks & meetings/meetings/2023-12-13 fairness-datasets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69faef079b41e0bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_work/projects/adm/🚧 🌌 fairness-multiverse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ff3aac5bf300d7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Industry Mentor or Advisor Zuse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48ee7fc4ad149e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_work/teaching/StatProg1/WS23/StatProg WS23 - Scratchpad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f086264c8a3bd727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "talks & meetings/meetings/2024-02-07 Perspective Meeting w Christoph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a84c9d9f894c219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_work/projects/wwl/Application - Softwarecampus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19b05f86ac855d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_work/projects/wwl/🚧 🌐 World-Wide-Lab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efc2a1191a280596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mus.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:fair",
+                "query": "hayoi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +91,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_work/👀  Tasks.md"
+                "file": "_work/teaching/git/Advanced Git.md"
               }
             }
           }
@@ -211,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/👀  Tasks.md",
+                "file": "_work/teaching/git/Advanced Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,6 +145,36 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "863982513b3bf523",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4863112174e3b90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f84630e9512006c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
@@ -251,45 +185,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-map-view:Open map view": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "271ff39d3a27c01a",
+  "active": "15a595177abe108c",
   "lastOpenFiles": [
-    "_work/projects/wwl/Application - Softwarecampus.md",
+    "Hiking Destinations.md",
+    "Untitled.md",
+    "_work/teaching/git/Advanced Git.md",
+    "xx.md",
+    "Meeting Kristof Meding.md",
+    "vacations/hikes/⛰️ Overview.md",
+    "DRA Docker x Container Video.md",
     "_work/👀  Tasks.md",
-    "mus.md",
+    "_work/teaching/git/Advanced Git - SS24.md",
+    "git bisect example.md",
+    "Untitled 13.md",
+    "_work/TML.md",
+    "Notes on Teaching.md",
+    "24-06-27 Meeting with Sam.md",
+    "Mainz EWAF Planung.md",
+    "Review BRM PocketLabApp PoLA.md",
+    "Meeting with Sam.md",
+    "Agenda.md",
+    "Untitled 10.md",
     "_work/projects/wwl/🚧 🌐 World-Wide-Lab.md",
-    "_work/teaching/StatProg1/WS23/StatProg WS23 - Scratchpad.md",
-    "🥳 30th Birthday Planning.md",
-    "Untitled 6.md",
-    "talks & meetings/meetings/2024-02-07 Perspective Meeting w Christoph.md",
-    "flyspots/Flyspots.md",
-    "_work/🏃💨 Facct Deadline Sprint.md",
-    "vacations/hikes/2024-01-26 - .md",
+    "Brazil Itinerary.md",
+    "Koffer Unai.md",
+    "IOM Call.md",
+    "_work/Urlaubsplanung LMU.md",
+    "_work/applications/Software Campus/2024-05 SoftwareCampus Feedback.md",
+    "UN ChatBot Hayoi Chen.md",
+    "_work/applications/Software Campus",
+    "_work/teaching/dra",
+    "_work/admin",
     "flyspots",
-    "Reg.md",
-    "ADM Meeting Feedback.md",
-    "research/PhD topics.md",
-    "PhD.md",
-    "RegLab Prep.md",
-    "Industry Mentor or Advisor Zuse.md",
-    "Untitled 5.md",
-    "Untitled 7.md",
-    "Untitled 8.md",
-    "Untitled 9.md",
-    "_work/teaching/DRA - Digital Research Academy TTT.md",
-    "vacations/ideas/China.md",
-    "_work/teaching/git/No Transfer Email (DE only).md",
-    "vacations/ideas/Guatemala.md",
-    "vacations/ideas/Interrail.md",
     "_work/teaching/StatProg1/WS23",
     "_work/teaching/StatProg1/WS22",
     "vacations/hikes",
@@ -301,9 +236,6 @@
     "talks & meetings/talks/2022",
     "talks & meetings/talks/2021",
     "talks & meetings/meetings/2023",
-    "talks & meetings/meetings/2021",
-    "talks & meetings/meetings/2022",
-    "talks & meetings",
     "_internal/media/attachments/Screenshot 2023-03-15 at 14.28.16.png",
     "_internal/media/attachments/Screenshot 2023-03-15 at 14.23.24.png",
     "_internal/media/attachments/Screenshot 2023-03-14 at 13.58.59.png",

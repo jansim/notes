@@ -1,0 +1,1 @@
+Einfache Sommerwanderung von Flinsbach zum hohen Asten. Auf dem Weg gibt es eine Hütte mit an scheinend SEHR gutem Essen vor allem die Spinatgnockerl sind wohl zu empfehlen.

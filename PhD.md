@@ -1,6 +1,0 @@
-- Reach out to Sam
-- Reach out to EJ
-- Reach out to Easystats
-- Reach out to Vega guy at MIT
-- Reach out to Jeffrey Heer at UW
-- 

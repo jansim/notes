@@ -1,3 +1,11 @@
+## One-Off
+
+- “Implementing AI Ethics through a Behavioural Lens” (AIEB) workshop at ECAI 2024
+	- Paper Submission Deadline: May 15, 2024  
+	- Notification of Acceptance: June 15, 2024
+	- Time: Late October
+	- Location: Spain, Santiago de Compostela
+
 ## Fairness
 - EAAMO
 	- Oct / Nov
@@ -9,15 +17,6 @@
 - AIES
 - Symposium on the Foundations of Responsible Computing: https://responsiblecomputing.org/call-for-papers/
 
-
-- [ ] Florian fragen
-- [ ] Nach Christoph's Urlaub zusammensetzen
-	- [ ] Struktur zusamenstellen
-
-- Multiverse: Paper bis April
-- Di 4.4. ab ~ Mittags
-- nächstes Projekt / meeting mit Leuten von Ophelia
-
 # Computer Human Interaction
 - CHI
 	- https://chi2023.acm.org/for-authors/
@@ -28,15 +27,36 @@
 - IEEE Viz
 	- Conference: Late October
 	- Short Papers:  End of April
-- 
+	- Tutorials (e.g. WWL): late April
+	- 2024: Florida
+
+## Psychology
+
+
+## Programming
+- useR conference
+	- Conference: July
+	- CFP: mid March
+- RSECon
+	- Conference: early September
+	- Calls for Presentations / Posters: End of April
 
 ## Web-Dev
 
 - internet conference
-- https://www2023.thewebconf.org/
+- The Web Conference
+	- May
+	- CfP Tutorials: Early November
+	- CfP Demos: Early February
+	- CfP Short Papers: Early February
 
 
-
-ICML
-ICLR
-NeurIPS
+## Datascience / AI General
+- ICML
+- ICLR
+- NeurIPS
+	- Conference: December
+	- CfP: Mid May
+- AAAI Conference
+	- Cfp: Mid August
+	- Conference: late February following year

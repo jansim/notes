@@ -1,8 +1,4 @@
 [
-  "templater-obsidian",
-  "obsidian-excalidraw-plugin",
   "obsidian-kanban",
-  "quickadd",
-  "obsidian-map-view",
-  "better-word-count"
+  "templater-obsidian"
 ]

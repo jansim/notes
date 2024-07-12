@@ -1,3 +1,5 @@
+- So you think you know git: https://www.youtube.com/watch?v=aolI_Rz0ZqY
+
 - SCC betriebliche abteilung die systeme betreibt
 - Haben GitLab platform dort
 - Auch mehr branching & merging
@@ -5,6 +7,8 @@
 	- fork mainteinen
 - Campus management & e-learning -> neue versionen von extern
 - aber auch selbst entwickelte projekte
+
+- https://git-scm.com/book/en/v2
 
 ## New Contents??
 - working trees

@@ -6,53 +6,221 @@ kanban-plugin: basic
 
 ## Backlog 📚️
 
-- [ ] Reimburse DSSG domain
+- [ ] Come up with plan re industry advisor for Zuse school
+- [ ] Come up with a longer term plan for #fairness-datasets
 - [ ] Where to go with #adm-perception
-- [ ] Ask Moritz Herrmann for lunch (open science @ MCML)
 - [ ] re-view #adm-perception / pitch read more
-- [ ] Jan / Feb: Apply to softwarecampus
+- [ ] Ask Moritz Herrmann for lunch (open science @ MCML)
 - [ ] Lehre Prof kontaktieren (Sven soundso)
 - [ ] Update git material
-- [ ] Reply EWCS
 - [ ] Implement zero inbox
 - [ ] Meet w/ Courtney #tml
 - [ ] Write Foundation / Reasoning for Hypotheses #adm-perception
 - [ ] Fill pre-registration for #adm-perception
-- [ ] Record first videos for StatProg2
-- [ ] Write #fairness-multiverse [paper](https://eaamo.org/cfp/)
 
 
 ## ToDo List
 
-- [ ] Come up with cleaning system for LMU kitchen
-- [ ] Come up with plan re industry advisor for Zuse school
-- [ ] Come up with a longer term plan for #fairness-datasets
-- [ ] Clean code for<br>- [ ] #fairness-multiverse <br>- [ ] #fairness-datasets
-- [ ] Make #wwl robust to errors (don'f fail on a single error!)
-- [ ] Validate name being string in CLIENT #wwl
+- [ ] Update BofA data
+- [ ] Check in on EWAF registration fee
+- [ ] Get apple developer account
+- [ ] WWL gracefully handle missing participants
+- [ ] Perform first batch of annotations for #fairness-datasets
+- [ ] Mentoring umbuchen!
+- [ ] Revise #WWL docs
+- [ ] Check for company summer internships (in US?) (2025??)
 - [ ] Revisit API docs (and authentication to them) #wwl
 - [ ] Do litreview for #js-translate
 - [ ] Read up on #nonprob  literature
 - [ ] Create jsPsych/translate
-- [ ] Create plugin to store participant information... jsPsych general?
+- [ ] Create plugin to store participant information... WWL or jsPsych general?
 - [ ] #git Kurs nachbearbeiten
 - [ ] Add Software to CV + Website
 
 
 ## Next Up 🔥
 
-- [ ] Plan Berlin trip<br>- [x] Book things<br>- [ ] Reisekostenantrag<br>- [ ] Get in touch w/ mentoring program
-- [ ] Bewerbung Graduatecenter für Promovierende: https://www.bidt.digital/foerderprogramm/graduate-center-fuer-promovierende/<br><br> @{2024-02-09}
-- [ ] Bewerbung Softwarecampus<br>- [ ] 1.5h Kurs
-- [ ] Wehrpflicht thing senden
-- [ ] Frauke DSSG
+- [ ] Prepare #ParticipatoryMultiverse study design
+- [ ] Finish Review behaviour research methods
+- [ ] Fix [WWL Docker Test](https://github.com/world-wide-lab/world-wide-lab/actions/runs/9775518795/job/26986078578)
+- [ ] Finalize advanced git kurs
+- [ ] Schedule another relAI talk
+- [ ] Write script for #DRA docker / containers
 
 
 ## Done 🎉
 
 **Complete**
+- [x] update website to more clearly mention fairness hacking as prior work
+- [x] Grade exercise sheet 4 #StatProg
+
+
+***
+
+## Archive
+
+- [x] Add info on TML wwl / pushkin things
+- [x] Setup GH actions for personal website
+- [x] Write wwl deployment instructions
+- [x] Finalize Exercise sheet 6 #StatProg
+- [x] Update any references to preprints to use proper dois.<br><br>- [x] Personal Website<br>- [x] SODA Website<br>- [x] Newsletter<br>- [x] Github Repos<br>- [x] ArXiv
+- [x] Check Wanderschuhe for Steigeisenkompatibilität
+- [x] StatProg grading
+- [x] Review Zuse School
+- [x] Start setting up #WWL meeting
+- [x] Ask Sonja re Industry Advisor @{2024-06-21}
+- [x] Finish booking for Mainz
+- [x] Book train to munich
+- [x] Preprare Statprog practical
+- [x] Record HDRUK video
+- [x] Prepare presentation for Retreat
+- [x] Cancel monday meeting
+- [x] Test run #EWAF
+- [x] Reisekosten abschicken
+- [x] Prepare 5min presentation for EWAF
+- [x] Send Reisekostenanträge
+- [x] Hotel Brasilia
+- [x] Hotel manaus
+- [x] Brasilia Hiking
+- [x] Prepare next #StatProg session
+- [x] Plan brazil @{2024-05-17}
+- [x] Prepare #FAccT doctoral colloquium 2min presentation
+- [x] Finish grading #StatProg
+- [x] Upload slides FAccT (!))
+- [x] Post to Hiwis + update calendar invites
+- [x] Look into #parm
+- [x] Sample annotations for alessandro (3x2)
+- [x] Post about filter views to HIWIs
+- [x] Email Hayoi
+- [x] Prepare draft for participatory-multiverse
+- [x] Test run #FAccT talks
+- [x] Prepare #FAccT Talks
+- [x] Print Rücksendelabel
+- [x] Ask MCML for $$$
+- [x] Integrate changes from StatProg helper feedback
+- [x] Send E-Mail HDRUK
+- [x] Fix #tml-miq
+- [x] Urlaub anfragen Brasilien
+- [x] Check out #wwl data quality
+- [x] Remove helmet and dotenv types
+- [x] WWL explicit caching mechanism (also e.g. for stimuli one day), should be able to return cache age
+- [x] update soda website
+- [x] Deploy new #wwl version, re-deploy pushkin frontend
+- [x] Come up with proper idea(s) for CHI paper
+- [x] Prepare #DRA Videos
+- [x] Re-Enable jobs on the NAS
+- [x] Prepare #StatProg practical
+- [x] Finalize Ü2
+- [x] Reach out to UN re project
+- [x] LSF registrierung highlighten! #StatProg
+- [x] Send out message to #StatProg students
+- [x] Write first draft for Nightingale
+- [x] Prepare intro to Python #StatProg
+- [x] Prepare Intro to Python video<br>via https://www.screen.studio/?
+- [x] Write UN scope (by END OF WEEK)
+- [x] Discuss next paper ideas with Christoph<br>- [x] CHI Paper?? -> participatory multiverse?
+- [x] Antrag auf Erstattung Ebook abschicken
+- [x] Antrag auf Reisekostenerstattung pre-CHI abschicken
+- [x] Prepare next #StatProg Session<br>- [x] Upload videos<br>- [x] look into practical<br>- [x] Easystats (video?) -> in practical??
+- [x] Finalize FAccT papers
+- [x] Feedback Clara
+- [x] Write #fairness-multiverse reproducible manuscript
+- [x] Link #fairness-datasets in Newsletter (once Preprint is there)
+- [x] Improve WWL docs
+- [x] Upload #fairness-datasets preprint
+- [x] Prepare #Softwarecampus interview @{2024-04-24}
+- [x] Prepare #StatProg grading sheet
+- [x] Send out preprints<br>- [x] HCI Guy SustAInability (multiverse)<br>- [x] relAI Frau (datasets)<br>- [x] ruben (both)
+- [x] Submit FAccT camera ready (with new plots)
+- [x] Prepare PreCHI demo
+- [x] Clean fairness-datasets overleaf
+- [x] Write to Hiwis!
+- [x] Proper readthrough of #fairness-multiverse
+- [x] Final read-through of #fairness-datasets
+- [x] Perform EWAF review @{2024-04-12}
+- [x] Reisegenehmigung FaccT
+- [x] E-mail lern fair
+- [x] Update multiverse paper with facct stuff
+- [x] Prepare Practical 1 for #StatProg
+- [x] Order eInk Tablet
+- [x] Prepare #StatProg lecture on Friday
+- [x] Read over #fairness-datasets edits by Alessandro
+- [x] Finalize funding for mentoring program @{2024-04-12}
+- [x] Check in on dengue again
+- [x] Look throught FAccT hoops to jump through
+- [x] Prepare 5-min Zuse School Pitch @{2024-04-12}
+- [x] Order via doorout.com
+- [x] Write Nightingale Outline
+- [x] ? Reiseantrag Pre-CHI / Book tickets @{2024-04-04}
+- [x] Revisit LoR by Frauke
+- [x] Prepare letter of recommendation by Frauke
+- [x] Prepare #PhD meeting
+- [x] Reply Nightingale
+- [x] Write #fairness-multiverse [paper](https://eaamo.org/cfp/)
+- [x] Reply EWCS
+- [x] Make #wwl robust to errors (don'f fail on a single error!)
+- [x] Add References for Microsoft Internship
+- [x] Deploy mosaic #fairness-multiverse
+- [x] Finalize mosaic #fairness-multiverse <br>- [x] Run by christoph
+- [x] Apply for FAccT Doctoral Consortium @{2024-04-04}
+- [x] Reply DSSG
+- [x] Submit Prototype Fund Application
+- [x] Look at Microsoft Internships<br>- [General](https://www.microsoft.com/en-us/research/careers/open-positions/?facet%5Bdate%5D%5Bfixed%5D=any&facet%5Btax%5D%5Bmsr-job-opportunity-type%5D[]=234821&pg=1&sort_by=most-recent)<br>- [Specific](https://jobs.careers.microsoft.com/global/en/job/1606359/Research-Science%3a-PhD-Internship-Opportunities)<br>@{2024-03-30}
+- [x] Mail reviews to / reply Christoph
+- [x] Submit EWAF draft
+- [x] Look into [mosaic](https://uwdata.github.io/mosaic/inputs/) for #fairness-multiverse
+- [x] Turn WWL public
+- [x] Write [[Prototype Fund Application]] @{2024-03-22}
+- [x] Finalize EWAF draft @{2024-03-26}
+- [x] Re-run fairness multiverse + update repo
+- [x] Add Felix to WWL
+- [x] ZHS @{2024-04-02}
+- [x] Reach out to RegLab @{2024-03-21}
+- [x] Validate name being string in CLIENT #wwl
+- [x] Reach out to BR !! @{2024-03-15}
+- [x] Come up with cleaning system for LMU kitchen
+- [x] Track WWL participants across sessions in TML
+- [x] Fix WWL replication and export bugs
+- [x] Prepare #fairness-datasets repository for publication
+- [x] Copy over cards on basecamp
+- [x] Write EWAF draft @{2024-03-13}
+- [x] Create #WWL export script
+- [x] Review #FAccT craft proposal<br><br>- [x] First time<br>- [x] Second Time
+- [x] Deploy #TML #WWL replication
+- [x] Clean code for<br>- [ ] #fairness-multiverse <br>- [ ] #fairness-datasets
+- [x] Write first draft for #FAccT CRAFT thingy
+- [x] Look at #FK2RG drafts
+- [x] Prepare for RegLab Interview No 2 @{2024-03-05}
+- [x] Wehrpflicht thing überarbeiten und dann senden
+- [x] Review FAccT proposal thingy
+- [x] Send out DAAD Vortragsreise
+- [x] !! Send DSSG projects blurb
+- [x] Search for DataFest shirts and notify Luis abt them
+- [x] Finalize #fairness-datasets annotation process and onboard felix
+- [x] Post R package idea on Website
+- [x] Grade StatProg Ü6
+- [x] Fix google scholar links in fairness datasets sheet
+- [x] Soda Website Footer Rechtschreibfehler
+- [x] Öwf kontakt https://oewf.org/en/2023/01/infographic-volunteering-for-mars-simulations/
+- [x] Reimburse DSSG domain
+- [x] Prepare #fairness-datasets annotation process
+- [x] Create WWL roadmap
+- [x] Reach out to Schwarz
+- [x] Join FAccT Slack
+- [x] In Soda schreiben: Projekt contact person + social media info gsheet
+- [x] Bewerbung Graduatecenter für Promovierende: https://www.bidt.digital/foerderprogramm/graduate-center-fuer-promovierende/<br><br>- [x] Support Christioph<br>- [x] Support Frauke<br>- [ ] Send!<br><br> @{2024-02-09}
+- [x] Prepare TTT
+- [x] Record first videos for StatProg2
+- [x] Check in with Felix and Jacob re R package idea
+- [x] Reach out to potential #dssg project partner
+- [x] Prepare RegLab Interview<br>- [ ] Read Papers<br>- [ ] Check up on lab<br>- [x] Check a bit on Stanford in general
+- [x] Ping Alessandro
+- [x] Double-Check TTT Sessions
+- [x] Plan Berlin trip<br>- [x] Book things<br>- [x] Reisekostenantrag<br>- [x] Get in touch w/ mentoring program
+- [x] Bewerbung Softwarecampus<br>- [ ] 1.5h Kurs
 - [x] Finalize Birthday planning<br>- [ ] Buy drinks<br>- [x] Send last info message
 - [x] Update preprint for fairness-multiverse
+- [x] Frauke DSSG
 - [x] Deploy #wwl for all games
 - [x] Post Umfrage on moodle
 - [x] Update macOS (after reglab thingy)
@@ -65,12 +233,6 @@ kanban-plugin: basic
 - [x] Register for EWAF2023, submit paper @{2023-05-20}
 - [x] Update personal Website<br><br>- [x] Add talks / conferences / posters<br>- [x] Add Software<br>- [ ] Update about  text
 - [x] #StatProg prepare abgabe Ü6
-
-
-***
-
-## Archive
-
 - [x] #StatProg grading Ü4
 - [x] Check #dssg money else ask Wiebke
 - [x] Check in for collaboration with Kit Rodolfa / Stanford Reglab
@@ -445,6 +607,9 @@ kanban-plugin: basic
 - [ ] Prepare FK2RG presentation on TML
 - [ ] Fairness Lit Review
 - [ ] Follow up on EWAF<br>- [ ] Meet with TUM people
+- [ ] Next steps for #fairness-datasets
+- [ ] Apply for [Northeaster Summer Internship](https://cssh.northeastern.edu/ethics/2024-summer-research-internship/)
+- [x] StatProg Practical<br>- Highlight people should say sth if no grade received
 
 %% kanban:settings
 ```

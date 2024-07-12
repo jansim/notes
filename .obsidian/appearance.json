@@ -1,10 +1,5 @@
 {
-  "baseFontSize": 16,
-  "theme": "moonstone",
-  "cssTheme": "",
-  "enabledCssSnippets": [
-    "bold-folders"
-  ],
   "accentColor": "#117da2",
+  "cssTheme": "",
   "translucency": true
 }

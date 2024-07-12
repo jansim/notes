@@ -1,12 +1,18 @@
 
-- https://www.youtube.com/watch?v=2SoMzx4Otfw
-- https://www.youtube.com/watch?v=00MFb5-BqPc
-- https://www.youtube.com/watch?v=grQDRC6aYFM
+- https://www.youtube.com/playlist?list=OLAK5uy_kPC5JZxY5jsHO9NVCim_5kw3rXaa0KW-8
+- https://www.youtube.com/watch?v=hi4pzKvuEQM
+- https://www.youtube.com/watch?v=E_jWcIDqXq0
+- https://www.youtube.com/watch?v=nvb8wdBglpw
+- https://www.youtube.com/watch?v=R5FDc0tTA3o
+- https://www.youtube.com/watch?v=YdeO5U5XZYI
+- https://www.youtube.com/watch?v=WnP4w8eTAxU
 - 
 
 
-
 ## 2get
+- [x] Seven Days Walking: Day Two - Ludovico
+- [x] In a time lapse - ludovico einaudi
+- [x] Kayhan kalhor silent city
 - [ ] Thunderstruck - AC/DC
 - [x] Cherry Blossom Girl - Air
 - [ ] Follow Me - Andre Ehmann
@@ -15,7 +21,7 @@
 - [x] How Far I'll Go - Auli'i Cravalho
 - [ ] God Is Dead? - Black Sabbath
 - [x] Anti Anti - Bonaparte
-- [ ] Throne - Bring Me The Horizon
+- [x] Throne - Bring Me The Horizon
 - [x] MANTRA - Bring Me The Horizon
 - [x] Lone Digger - Caravan Palace
 - [ ] We Don't Talk About Bruno - Carolina Gaitán - La Gaita, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto - Cast
@@ -30,7 +36,7 @@
 - [ ] What Else Can I Do? - Diane Guerrero & Stephanie Beatriz
 - [ ] I Like Birds - Eels
 - [ ] Sunny Road - Emilíana Torrini
-- [ ] Propaganda - Fabri Fibra, Colapesce & Dimartino
+- [x] Propaganda - Fabri Fibra, Colapesce & Dimartino
 - [ ] Amsterdam - FLEMMING
 - [ ] Carol Brown - Flight of the Conchords
 - [ ] Business Time - Flight of the Conchords
@@ -41,7 +47,7 @@
 - [ ] Bla Bla Bla - Gigi D'Agostino
 - [x] Love333 - Girlpool
 - [ ] Amsterdam - Harris & Ford & 2 Engel & Charlie
-- [ ] Raining Blood - Hot Sugar
+- [x] Raining Blood - Hot Sugar
 - [ ] Fear of the Dark (Live) - Iron Maiden
 - [x] In Da Getto - J Balvin & Skrillex
 - [x] Cxntour - James Indigo
@@ -53,7 +59,7 @@
 - [x] Vanavond (Uit M'n Bol) - Kris Kross Amsterdam, Donnie & Tino Martin
 - [ ] Silver Scrapes (feat. ProtoShredanoid) - League of Legends
 - [ ] THATS WHAT I WANT - Lil Nas X
-- [ ] Guilty All the Same (feat. Rakim) - LINKIN PARK
+- [x] Guilty All the Same (feat. Rakim) - LINKIN PARK
 - [x] SUPERMODEL - Måneskin
 - [ ] Ik Ga Zwemmen - Mart Hoogkamer
 - [ ] Sekundenschlaf (Instrumental) - Marteria
@@ -63,21 +69,19 @@
 - [x] You & Me - MEUTE
 - [x] Aquatic - Nora En Pure
 - [ ] Don't Look Back in Anger - Oasis
-- [ ] Swing & A Miss - Oliver Tree
-- [ ] Snowfall - Øneheart & reidenshi
+- [x] Swing & A Miss - Oliver Tree
+- [x] Snowfall - Øneheart & reidenshi
 - [ ] Flamboyant - Pet Shop Boys
 - [ ] Another Brick In the Wall, Pt. 2 - Pink Floyd
-- [ ] Zindabad - Red Baraat
-- [ ] Motherless Child - Romare
-- [ ] Trouble’s Coming - Royal Blood
+- [x] Trouble’s Coming - Royal Blood
 - [x] Van Horn - Saint Motel
 - [ ] Two Oruguitas - Sebastián Yatra
 - [ ] Links Rechts - Snollebollekes
-- [ ] Drinkee - Sofi Tukker
+- [x] Drinkee - Sofi Tukker
 - [x] Awoo (feat. Betta Lemme) - Sofi Tukker
 - [x] Batshit - Sofi Tukker
 - [ ] The Shift - Stand High Patrol
-- [ ] Following the Sun - SUPER-Hi & Neeka
+- [x] Following the Sun - SUPER-Hi & Neeka
 - [ ] Lost in Yesterday - Tame Impala
 - [ ] Naive - The Kooks
 - [ ] California Dreamin' - The Mamas & The Papas

@@ -1,16 +1,12 @@
 #fairness-multiverse 
 
-- anything you'd like us to cut?
-- anything missing?
-- extra figure?
-- 
-- density via color, heatmap
+## Repository Preparation
+- [ ] Move over code changes
+- [ ] Add support for custom seeds
+- [ ] Create Dockerfile
+- [ ] Move over reproducible manuscript and other R code
+- [ ] Push changes to public github
 
-- predictive multiplicity?! -> equal models; different predictions!
-
-## Facct Rewrite
-
-1. 
 
 ### Package
 - https://snakemake.github.io/

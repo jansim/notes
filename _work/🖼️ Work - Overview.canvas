@@ -6,8 +6,8 @@
 		{"type":"text","text":"Full Throttle","id":"73336c1667210de0","x":687,"y":-500,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"Early Stage","id":"ae55a2562bfaf383","x":1190,"y":-500,"width":250,"height":60,"color":"5"},
 		{"type":"file","file":"_work/projects/tml/🏗️ TML-DEV.md","id":"97378881c3c34887","x":159,"y":49,"width":400,"height":400},
-		{"type":"file","file":"_work/projects/adm/🚧 🌌 fairness-multiverse.md","id":"40baf47c142113c6","x":687,"y":-410,"width":400,"height":400},
-		{"type":"file","file":"_work/projects/adm/🚧 🧐 adm-perception.md","id":"b4ea97fc57b1fec1","x":1190,"y":-410,"width":400,"height":400},
+		{"type":"file","file":"_work/projects/fairml/🚧 🌌 fairness-multiverse.md","id":"40baf47c142113c6","x":687,"y":-410,"width":400,"height":400},
+		{"type":"file","file":"_work/projects/fairml/🚧 🧐 adm-perception.md","id":"b4ea97fc57b1fec1","x":1190,"y":-410,"width":400,"height":400},
 		{"type":"file","file":"_work/projects/wwl/🚧 🌐 World-Wide-Lab.md","id":"ef548c168f37a3b1","x":1190,"y":49,"width":400,"height":400}
 	],
 	"edges":[]
