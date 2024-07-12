@@ -1,3 +1,5 @@
+https://git-scm.com/book/en/v2
+
 ## ToDo
 - [ ] Split up course into separate topics
 - [ ] Re-View all Slides

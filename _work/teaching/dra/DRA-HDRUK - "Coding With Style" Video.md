@@ -1,0 +1,13 @@
+- Style Guides
+- Linters vs. Autoformatters / Stylers
+	- For R
+	- For Python (different options)
+- Benefits
+	- Consistency
+	- Code Smell
+	- Best Practices
+- Configuring Styles / Linters
+	- When a good idea / when better not to?
+- Editorconfig?
+- Design Patterns?
+- CI / CD?

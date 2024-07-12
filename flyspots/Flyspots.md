@@ -9,6 +9,7 @@ locations:
 - [Speichersee Ismaning](geo:48.2067038208893,11.67263936251402) Speichersee Ismaning
 - Fall / Winter (with snow) - Perlacher Forst - South of Munich
 - Bei Lenggries in der Nähe
+- Laber bei Oberammergau zB SCHARTENKÖPFE
 
 
 ```mapview

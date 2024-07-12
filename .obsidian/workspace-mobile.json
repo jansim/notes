@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🥳 30th Birthday Planning.md",
+                "file": "Brazil Itinerary.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Brazil",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,12 +100,14 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "bf3bd17f734061ae",
@@ -117,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🥳 30th Birthday Planning.md",
+            "file": "Brazil Itinerary.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,8 +135,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-map-view:Open map view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -146,6 +146,15 @@
   "active": "a2ecd556e424ada5",
   "lastOpenFiles": [
     "_work/👀  Tasks.md",
+    "Gardening.md",
+    "Mentoring Funding Plan.md",
+    "_work/projects/wwl/🚧 🌐 World-Wide-Lab.md",
+    "vacations/hikes/2024-03-03 Fjallraven Classic.md",
+    "vacations/hikes/2024-03-03, DE - Hoher Asten.md",
+    "vacations/hikes/2024-03-03 - CH, Berggasthaus Staubern.md",
+    "vacations/hikes/⛰️ Overview.md",
+    "mus.md",
+    "🥳 30th Birthday Planning.md",
     "_work/🏃💨 Facct Deadline Sprint.md",
     "_work/teaching/git/Advanced Git - SS24.md",
     "_work/teaching/StatProg1/WS23/StatProg WS23 - Scratchpad.md",
@@ -154,7 +163,6 @@
     "Industry Mentor or Advisor Zuse.md",
     "_work/teaching/git/Git.md",
     "_work/teaching/git/Outline.md",
-    "_work/projects/wwl/🚧 🌐 World-Wide-Lab.md",
     "Untitled 8.md",
     "fairness datasets annotations Progress.md",
     "talks & meetings/meetings/2023-11-29 fairness-multiverse planning w Christoph.md",
@@ -163,14 +171,6 @@
     "🎄 Geschenke Weihnachten 2023.md",
     "_work/teaching/StatProg1/WS23/Session 3 - 2023-11-02.md",
     "untracked/Books.md",
-    "talks & meetings/meetings/2023-10-12 FirstSpirit CMS Workshop.md",
-    "vacations/hikes/2023-10-08 - DE - Unterer Gaisalpsee.md",
-    "vacations/hikes/2023-10-08 - AT - Seebensee.md",
-    "vacations/hikes/2023-10-08 - CH - Oeschinensee.md",
-    "vacations/hikes/⛰️ Overview.md",
-    "vacations/hikes/2023-10-08 - IT - Dolomiti Friulane.md",
-    "vacations/hikes/2023-10-08 - DE - Laber.md",
-    "ZHS Hochschulsport.md",
     "_internal/media/attachments/Screenshot 2023-07-05 at 10.22.19.png",
     "_internal/media/attachments/Screenshot 2023-07-05 at 10.49.07.png",
     "_internal/media/attachments/Screenshot 2023-07-05 at 10.59.23.png",

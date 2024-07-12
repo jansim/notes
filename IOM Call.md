@@ -1,0 +1,35 @@
+- Microsoft fabric for data ingestion
+- Data still needs to be cleaned
+	- deduplication
+- GDELT
+	- 300 event types
+	- 100 filtered out
+- pretty manual-ish filtering??
+- adding in biophysical data from another source
+	- pretty clean
+- capacity to help with modeling??
+	- in scope
+- there are papers to built upon
+- validate the weights they currently have
+- outcome they try to predict
+	- some indicators?
+- unknown how many datapoints they have
+	- and what even are they trying to predict????
+- dtm data?
+	- inconsistency?
+	- ibnc data - displacement
+	- country + time period + No of displacement within country
+- some meta dataset
+- unocc daily updates (internal media monitoring)
+
+
+- internally used
+- shared with donors and other UN orgs
+- biweekly bulletins
+- used to prioritize countries
+- combined with preparedness data
+	- disconnect
+
+- model not open
+- we can get testimonials
+- deliverables

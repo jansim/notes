@@ -8,10 +8,14 @@
 	- [ ] Make your own GitHub action implementation or so?
 - [ ] more learn git branching
 	- [ ] Careful of overlap with course 1 and transferaufgabe
-	- [ ] 
 - [ ] Double check duplicate content vs repetition 
+- [ ] GH Action
+	- [ ] Use spellchecking with some markdown?
+- [ ] Git bisect
+	- [ ] Cooking recipe
+		- [ ] evaluator -> even number of ingredients => good (uneven => bad)
 
-- [ ] Just for fun: person a erstellt graph in learngitbranching person b muss ihn nachbauen?
+- [ ] **Just for fun:** person a erstellt graph in learngitbranching person b muss ihn nachbauen?
 - [ ] Evtl ein practical: real world usage!!
 - [ ] New topics
 	- [ ] git-bisect ?
