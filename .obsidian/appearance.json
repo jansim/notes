@@ -1,5 +1,6 @@
 {
   "accentColor": "#117da2",
   "cssTheme": "",
-  "translucency": true
+  "translucency": true,
+  "enabledCssSnippets": []
 }

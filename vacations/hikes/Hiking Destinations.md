@@ -18,3 +18,7 @@
 - nicht so mega, aber frei: Gufferthütte https://www.gufferthuette.at/, https://www.alpsonline.org/reservation/calendar?hut_id=148
 - 
 
+
+
+Multi-day backpacking
+- Norway, Nordland e.g. Lomsdal-Visten National Park

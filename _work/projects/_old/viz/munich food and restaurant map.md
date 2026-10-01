@@ -1,0 +1,3 @@
+- https://laurenleek.substack.com/p/how-google-maps-quietly-allocates
+- https://laurenleek.eu/food-map
+- Create a map of restaurants in Munich alongside metrics

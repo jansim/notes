@@ -3,6 +3,13 @@
 - 10 Tage: 10. - 21.06.
 - 4 Tage: 8. - 11.7.
 - 1 Tag: 19.7.
+- 3 Tage: Dolomiten 18. - 20.9.
+- 5 Tage: Schweiz 7.-11.10.
+- 3 Wochen NZ?
+- 17 Tage übrig?
+	- 09.12. - 03.01.  (15 Tage)
+- 2 Tage übrig?
+	- + unoffiziell etwas mehr, wg. Arbeiten um Weihnachten rum
 
 
 ## 2023

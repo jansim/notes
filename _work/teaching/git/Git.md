@@ -1,5 +1,16 @@
 https://git-scm.com/book/en/v2
 
+Prepare open rights course variant -> replace backgrounds!
+Video conversion command:
+	ffmpeg -i input.mp4 -an -filter_complex "[0:v]setpts=0.5*PTS,split[v1][v2];[v2]reverse[v2r];[v1][v2r]concat=n=2:v=1:a=0,format=yuv420p" -c:v libx264 -crf 24 -preset slow output_loopable.mp4
+	
+## Ideas
+
+- [ ] Virtual git console
+	- [ ] https://github.com/isomorphic-git/isomorphic-git
+	- [ ] https://github.com/petersalomonsen/wasm-git
+	- [ ] https://github.com/r-wasm/quarto-drop (quasi die Idee für git)
+
 ## ToDo
 - [ ] Split up course into separate topics
 - [ ] Re-View all Slides
@@ -37,6 +48,8 @@ https://git-scm.com/book/en/v2
 		- Take home practical (mandatory!)
 	- Have them perform practicals both via CLI and GUI
 	- Have most of them be done in pairs? (maybe for everyone, one person das CLI the other das GUI??)
+
+
 
 ## Resources
 - https://learngitbranching.js.org/

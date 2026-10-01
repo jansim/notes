@@ -10,6 +10,8 @@ locations:
 - Fall / Winter (with snow) - Perlacher Forst - South of Munich
 - Bei Lenggries in der Nähe
 - Laber bei Oberammergau zB SCHARTENKÖPFE
+- Viele Berge in Richtung Chiemgau / Chiemsee
+	- u.a. Kampenwand (sehr nice!)
 
 
 ```mapview

@@ -1,0 +1,12 @@
+/* Don't wrap codeblocks */
+pre > code, code[class*="language-"] {
+  white-space: pre !important;
+}
+
+.HyperMD-codeblock {
+  overflow: auto;
+}
+
+.HyperMD-codeblock, .cm-hmd-codeblock {
+  white-space: pre !important;
+}

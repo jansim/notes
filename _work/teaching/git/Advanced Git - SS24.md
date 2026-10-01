@@ -1,4 +1,11 @@
-
+- Extra Topics
+- Safe force pushing???
+- Internals (maybe for people who are bored?)
+- subtree / submodules
+- [shallow clone](https://github.blog/open-source/git/get-up-to-speed-with-partial-clone-and-shallow-clone/) 
+	- how to make it not shallow?
+	- git fetch --unshallow
+	- https://stackoverflow.com/questions/6802145/how-to-convert-a-git-shallow-clone-to-a-full-clone
 ## What needs to change?
 - [ ] Gitlab or GitHub?
 	- [ ] Both?!
@@ -9,16 +16,27 @@
 - [ ] more learn git branching
 	- [ ] Careful of overlap with course 1 and transferaufgabe
 - [ ] Double check duplicate content vs repetition 
-- [ ] GH Action
-	- [ ] Use spellchecking with some markdown?
+- [x] GH Action
+	- [x] Use spellchecking with some markdown?
 - [ ] Git bisect
 	- [ ] Cooking recipe
 		- [ ] evaluator -> even number of ingredients => good (uneven => bad)
+	- [ ] Needle in a Haystack
+		- [ ] 120 emoji commits (via bash script generated)
+		- [ ] useless commit messages
+		- [ ] placed in the future?
+		- [ ] First 20 or so have proper commit messages then it goes haywire
 
-- [ ] **Just for fun:** person a erstellt graph in learngitbranching person b muss ihn nachbauen?
+- [x] **Just for fun:** person a erstellt graph in learngitbranching person b muss ihn nachbauen?
 - [ ] Evtl ein practical: real world usage!!
 - [ ] New topics
-	- [ ] git-bisect ?
+	- [x] git-bisect ?
+	- [x] interactive rebase
+	- [ ] set upstream? -> intro course already!
+	- [ ] submodules
+	- [ ] 
+- [ ] Topics to cut?
+	- [ ] multiple remotes? (very little tho - mainly also just in repetition so maybe keep?)
 ## Outline 
 
 Erster Block ähnlich wie in Intro?

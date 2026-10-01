@@ -43,7 +43,9 @@
 	- Wild stuff, but hard to connect to
 - Get in touch w/ easystats ppl
 - Daniel rückert
-- 
+- Virginia Dignum
+	- https://www.umu.se/en/staff/virginia-dignum/?flik=publikationer
+	- https://scholar.google.com/citations?hl=en&user=xJj3UN4AAAAJ&view_op=list_works&sortby=pubdate
 
 ## Graduate Schools
 

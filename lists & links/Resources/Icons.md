@@ -1,3 +1,8 @@
 - https://github.com/lucaburgio/iconoir
 - Animal Silhouette Icons https://beta.phylopic.org/
+- Microsoft Emoji (MIT licensed)
+	- https://github.com/microsoft/fluentui-emoji/ 
+	- https://animated-fluent-emoji.vercel.app/ (animated)
+- https://tabler.io/icons
+- https://www.svgrepo.com/
 - 

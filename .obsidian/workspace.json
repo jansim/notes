@@ -4,22 +4,117 @@
     "type": "split",
     "children": [
       {
-        "id": "2f1f363b566bb6d8",
+        "id": "7e9c5cf3288cdad7",
         "type": "tabs",
         "children": [
           {
-            "id": "81e29908ee3d6f26",
+            "id": "b31c570ef0942f08",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "_work/👀  Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    null
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "👀  Tasks"
+            }
+          },
+          {
+            "id": "cc75dbc26923d721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "untracked/mus.md",
+                "file": "AAAI.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "AAAI"
+            }
+          },
+          {
+            "id": "0d8c331ba38c4bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datasets 2 x Extraction Thoughts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datasets 2 x Extraction Thoughts"
+            }
+          },
+          {
+            "id": "d977cc11fb0ca7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_work/reviews/2026-08 AAAI AISI Paper 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08 AAAI AISI Paper 3"
+            }
+          },
+          {
+            "id": "b20834e0722dbf1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-09-22 DSSG Presentation Test Run.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-22 DSSG Presentation Test Run"
+            }
+          },
+          {
+            "id": "a49af36403842d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-09-22 DSSG Presentation Test Run.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-22 DSSG Presentation Test Run"
+            }
+          },
+          {
+            "id": "e9edcb6e5729f0d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-09-22 DSSG Presentation Test Run.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-22 DSSG Presentation Test Run"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -31,7 +126,7 @@
       {
         "id": "8a7da934e06b50df",
         "type": "tabs",
-        "dimension": 81.14985862393968,
+        "dimension": 78.2844733984799,
         "children": [
           {
             "id": "300414035b8deac3",
@@ -39,8 +134,13 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -49,13 +149,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hayoi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -71,7 +175,7 @@
       {
         "id": "36da40ebe6c22d87",
         "type": "tabs",
-        "dimension": 18.85014137606032,
+        "dimension": 21.715526601520093,
         "children": [
           {
             "id": "9356928cdd8dabf4",
@@ -79,15 +183,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "untracked/mus.md"
-              }
+                "file": "2026-09-22 DSSG Presentation Test Run.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 264.5
   },
   "right": {
     "id": "3a964bd64f2ca896",
@@ -103,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "untracked/mus.md",
+                "file": "2026-09-22 DSSG Presentation Test Run.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +217,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -123,7 +231,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -131,7 +241,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -142,7 +254,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "lucide-ghost",
+              "title": "outgoing-link"
             }
           },
           {
@@ -153,7 +267,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-ghost",
+              "title": "tag"
             }
           },
           {
@@ -161,7 +277,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "outline"
             }
           }
         ]
@@ -173,53 +291,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "300414035b8deac3",
+  "active": "e9edcb6e5729f0d6",
   "lastOpenFiles": [
-    "PhD & PostDoc Links.md",
-    "ToWatch - Youtube.md",
-    "Flow-Kurs.md",
-    "Scratchpad Test Thingy.md",
-    "untracked/Gardening.md",
-    "Meeting with Sam.md",
-    "_work/projects/_old/datafest/infas 360 daten.md",
-    "Notes on Teaching.md",
-    "Hiwi Meeting.md",
-    "ADM Meeting Feedback.md",
-    "DSSGx Munich Projects Email.md",
-    "_work/projects/dssg/UN DSSG Projekt.md",
-    "_work/projects/dssg/UN ChatBot Hayoi Chen.md",
-    "_work/reviews/2024-07 Review BRM PocketLabApp PoLA.md",
-    "Temp.md",
-    "_work/applications/2024-05 Prototype Fund Application.md",
-    "_work/projects/dssg/IOM Call.md",
-    "Promotionsbestätigung.md",
-    "_work/Uncertainty.md",
-    "_work/Untitled.md",
+    "untracked/mus.md",
+    "2026-09-22 DSSG Presentation Test Run.md",
+    "lists & links/Awesome little apps & websites.md",
+    "ideas & projects/Maps of Folklore.md",
+    "Untitled 21.md",
+    "ideas & projects/Animal Silhouettes.md",
+    "ideas & projects/📸 Receipt Scanner.md",
+    "ideas & projects/📻️  World Radio.md",
+    "ideas & projects/🍉 Fruit & Vegetable Calendar 📅.md",
+    "TEMP.md",
+    "_work/teaching/git/Advanced Git/Post-Course Email (Advanced).md",
+    "_work/teaching/git/Intro to Git/Post-Course Email (Intro).md",
+    "_work/teaching/git/Advanced Git.md",
+    "Untitled 14.md",
+    "_work/reviews/2026-08 AAAI AISI Paper 3.md",
+    "_work/reviews/2026-08 AAAI AISI Paper 2.md",
+    "Defense Markus.md",
+    "_work/reviews/2026-08 AAAI AISI Paper 5.md",
+    "_work/reviews/2026-08 AAAI AISI Paper 6.md",
+    "_work/reviews/2026-08 AAAI AISI Paper 4.md",
+    "talks & meetings/meetings/2026-04-30 Job-Talk Bolei.md",
+    "LAiSER Review.md",
+    "DECIDE Brainstorm.md",
+    "Untitled 10.md",
+    "vacations/hikes/IT, Via Degli Dei.md",
+    "vacations/hikes/⛰️ Overview.md",
+    "_internal/media/attachments/Pasted image 20241004221711.png",
+    "_internal/media/attachments/Pasted image 20241004221703.png",
+    "_work/teaching/git/Advanced Git",
+    "_work/teaching/git/Intro to Git",
     "_work/projects/_old",
     "_work/projects/dssg",
     "_work/projects/_old/datafest",
-    "_work/👀  Tasks.md",
-    "_work/reviews/2024-04 EWAF 2024 Review.md",
-    "_internal/archive/ZHS Hochschulsport.md",
-    "Psycholotherapie - Ausland.md",
-    "_internal/archive/ZHS.md",
-    "Wiebke.md",
     "vacations/Untitled",
     "_work/projects/fairml/old",
     "_work/teaching/dra/2024-06 HDRUK-Videos",
     "_work/applications/Untitled",
     "_work/reviews",
-    "_work/applications/Software Campus",
-    "_work/teaching/dra",
     "_work/🖼️ Work - Overview.canvas",
     "_internal/media/attachments/Screenshot 2023-07-05 at 10.59.23.png",
     "_internal/media/attachments/Screenshot 2023-07-05 at 10.49.07.png",
@@ -228,7 +350,6 @@
     "_internal/media/attachments/Screenshot 2023-03-15 at 14.28.16.png",
     "_internal/media/attachments/Screenshot 2023-03-15 at 14.23.24.png",
     "_internal/media/attachments/Screenshot 2023-03-14 at 13.58.59.png",
-    "_internal/media/attachments/Screenshot 2023-03-14 at 13.23.50.png",
-    "_internal/media/attachments/Screenshot 2023-03-14 at 13.15.32.png"
+    "_internal/media/attachments/Screenshot 2023-03-14 at 13.23.50.png"
   ]
 }

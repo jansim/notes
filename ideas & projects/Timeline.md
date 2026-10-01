@@ -1,0 +1,7 @@
+- one long-ass timeline containing all sorts of things on it to get a perspective of what happened when
+- Include geo / location aspect?
+- genetics / evolition?
+	- e.g. magnolia have been around longer than bees
+- civilizations / events
+	- wikidata?
+	- e.g. pharaohs / ancient egypt, but what happened in europe?

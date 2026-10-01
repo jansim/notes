@@ -1,0 +1,14 @@
+- AI Grid Summit - Moderation
+	- Eher absagen
+- Mentoring - Able to put in CV?
+- Multiverse Analysis Package
+	- jstatsoft fehlt noch was
+	- JOSS sollte noch passen
+	- On hold with Multiplicity paper
+- PhD Plan
+	- 4th Year financing?
+	- MZES?
+	- Dezember Call // Januar einreichen (wenige Seiten zu schreiben)
+	- Mittel für ein Jahr um eigentlichen Antrag zu schreiben
+	- Gute Chancen / Erste eigene Mittel eingeworben
+- 

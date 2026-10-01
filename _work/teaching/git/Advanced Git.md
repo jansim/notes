@@ -11,9 +11,13 @@
 - https://git-scm.com/book/en/v2
 
 ## New Contents??
-- working trees
-- referencing commits -> relatively
+- working trees ✅️
+- referencing commits -> relatively ✅️
 - internals?! probably too much
+- git hooks?
+- https://www.benji.dog/articles/git-config/
+- https://github.com/check-spelling/check-spelling better spell checker?
+- cheatsheet für advanced?
 
 ### Resources
 - The Turing Way

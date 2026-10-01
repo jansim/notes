@@ -49,6 +49,10 @@
 	- CfP Tutorials: Early November
 	- CfP Demos: Early February
 	- CfP Short Papers: Early February
+- International AAAI Conference on Web and Social Media (ICWSM)
+	- June
+	- CfP Deadline: Mid October
+- 
 
 
 ## Datascience / AI General

@@ -8,27 +8,28 @@ kanban-plugin: board
 
 - [ ] Come up with plan re industry advisor for Zuse school
 - [ ] Come up with a longer term plan for #fairness-datasets
-- [ ] Where to go with #adm-perception
-- [ ] re-view #adm-perception / pitch read more
 - [ ] Ask Moritz Herrmann for lunch (open science @ MCML)
 - [ ] Lehre Prof kontaktieren (Sven soundso)
-- [ ] Update git material
-- [ ] Implement zero inbox
-- [ ] Meet w/ Courtney #tml
-- [ ] Write Foundation / Reasoning for Hypotheses #adm-perception
-- [ ] Fill pre-registration for #adm-perception
 
 
 ## ToDo List
 
-- [ ] Update BofA data
-- [ ] Check in on EWAF registration fee
+- [ ] Submit thesis for [Studienpreis](https://koerber-stiftung.de/projekte/deutscher-studienpreis/teilnehmen/#msdynmkt_trackingcontext=a2fc26e2-590b-4b48-bcf4-a54ffe090300&msdynmkt_prefill=mktprf24f82b6dc98948c18cbb19432569b7c8eoprf) by END OF FEB 2027!
+- [ ] Write multiversum paper
+	
+	- [ ] Add steegen et al analysis
+	- [ ] Double check outlet... still JStatSoft?
+- [ ] Fix WWL adding scores?!?!
+- [ ] Read through Alessandro's paper
+- [ ] Try out AI studio to generate gifs for teaching?
+- [ ] Double-check WWL NAS data exports
+- [ ] #fairness-trees litreview
+- [ ] Write abt multiverse in MCML blog
+- [ ] Check AWS alarms and set up for WWL
+- [ ] Fix [WWL Docker Test](https://github.com/world-wide-lab/world-wide-lab/actions/runs/9775518795/job/26986078578)
 - [ ] Get apple developer account
 - [ ] WWL gracefully handle missing participants
-- [ ] Perform first batch of annotations for #fairness-datasets
-- [ ] Mentoring umbuchen!
 - [ ] Revise #WWL docs
-- [ ] Check for company summer internships (in US?) (2025??)
 - [ ] Revisit API docs (and authentication to them) #wwl
 - [ ] Do litreview for #js-translate
 - [ ] Read up on #nonprob  literature
@@ -36,29 +37,310 @@ kanban-plugin: board
 - [ ] Create plugin to store participant information... WWL or jsPsych general?
 - [ ] #git Kurs nachbearbeiten
 - [ ] Add Software to CV + Website
+- [ ] Publish git course materials?
 
 
 ## Next Up 🔥
 
-- [ ] Prepare #ParticipatoryMultiverse study design
-- [ ] Finish [[2024-07 Review BRM PocketLabApp PoLA]]
-- [ ] Fix [WWL Docker Test](https://github.com/world-wide-lab/world-wide-lab/actions/runs/9775518795/job/26986078578)
-- [ ] Finalize advanced git kurs
-- [ ] Schedule another relAI talk
-- [ ] Write script for #DRA docker / containers
+- [ ] Look at Marcus LLM extraction stuff
+- [ ] Look into DAAD postdoc funding?
+- [ ] Start writing in #world-wide-lab paper
+- [ ] WWL use deployment names
+- [ ] Debug WWL replication issues
+- [ ] Investigate particpant exports
+- [ ] Sri Lanka Money
+- [ ] Write blogpost about how I create publication ready plots?
+- [ ] Blog post schreiben & einreichen
+
+
+## New ToDo ✨️
+
+- [ ] PCS x Multiverse
+- [ ] Email Jochen
+- [ ] Try out Claude Code
+- [ ] Add new Claude skill for one of python files
 
 
 ## Done 🎉
 
-**Complete**
-- [x] update website to more clearly mention fairness hacking as prior work
-- [x] Grade exercise sheet 4 #StatProg
+- [ ] Email Maria
+- [ ] Plan Year: Conferences, funding, etc.
+- [ ] RAINER Check-in
+- [ ] CMA Fairness Git Repo
+- [ ] Taking stock, do all revision thingys
+- [ ] E-Mail resaro
+- [ ] Update project scope DSSG and translate
+- [ ] CMA Fairness updates
+- [ ] Figure out Sony Intersnhip
+- [ ] Travel funding
 
 
 ***
 
 ## Archive
 
+- [ ] Look at project github
+	https://github.com/LuguReign/nhis-ml-benchmark
+- [ ] Hannover: Wyndham Atrium?
+- [ ] relAI phD applications
+- [ ] Write blog post for MCML / relAI / WissKomm Price!
+- [ ] Tickets Karlsruhe
+- [ ] Submit *Fairground* to KDD
+- [ ] Update DSSGx Website; Ping Wiebke for second pass
+- [ ] Write abstract for KODAQS workshop
+	- Datenqualität
+	- Was sind gute Daten?
+	- Metriken für gute daten?
+	- Einfluss von Data Processing
+- [ ] Put thesis on Website?
+	
+	- https://heyzine.com/#product
+- [ ] ICLR WS Reviews
+- [ ] Prepare fairness datasets 2 for KDD
+- [ ] DRA invoice
+- [ ] [RAINER review](https://www.overleaf.com/project/694126591c07cb161aba031b)
+- [ ] Register AI Grid
+- [ ] Write rebuttal for CVPR reviews
+	- Submit ECCV
+	- If no, try neurips datasets
+- [ ] Create defense slides
+- [ ] DSSG response!!
+- [ ] Contact ppl re DSSG
+- [ ] data quality workshop slides
+- [ ] Post on slack
+- [ ] Make graphical abstract for CMA
+	- multiverse
+	- conformal => set predictions vs point predictions
+	- SIAB problem
+	- fairness concern?
+- [ ] Set up `uv` and more for #pcs-x-multiverse
+- [ ] post on slack re defense test talk
+- [ ] fairness multiverse extra analysis
+- [ ] Drinks defense
+- [ ] msg wiebke re contracts
+- [ ] Setup defense
+- [ ] Reach out to Wiebke re 2nd internship
+- [ ] Participatory 2 AI master thesis topic schreiben
+- [ ] Decide what I want to do re DSSG
+- [ ] Reach out to Nicole
+- [ ] Create first draft of participatory report?
+- [ ] Reach out to Marcus
+- [ ] Send reminder re thesis to Roger:
+	Does 12. still work? Important, else we have to shift the defense date.
+- [ ] Re-apply for mentoring
+- [ ] Send fairground paper out to Apple contact from FAccT
+- [ ] Abstract für fairness trees thesis
+- [ ] Meet Zach re project?
+- [ ] Set up RAINER onboarding for new Hiwis
+- [ ] Prepare HDRUK Session @{2025-11-11}
+- [ ] Finalize Committee
+	- [x] Email Roger
+	- [x] Ask C+K re who to pick last
+	- [x] Talk to Christoph re final timeline
+- [ ] Prepare SI for Sony Paper
+- [ ] Print and submit thesis!!
+- [ ] Submit reisekosten for FACCT and VIS
+- [ ] Set up Hut Patrick
+- [ ] Finish SONY paper
+- [ ] Check out RAINER bug
+- [x] Prepare HDRUK resources
+- [x] Visit Bin yu
+- [x] Plan Bin SODA Meeting
+- [x] Aktuelle Stände zuschicken (an Bin)
+	- Meine / Sofia's / Ruben's?
+- [x] VIZ Poster?
+- [x] Email DB
+- [x] Wir wenden VDS / PCS im Soz. Wiss. Kontext an
+- [x] Email MVG
+- [x] Reisegenehmigungen
+- [x] Reisekosten
+- [x] Set up sublet for CH
+- [x] Preprocessing Entscheidungen in VDS nicht so präsent
+- [x] Check out FreiBurg ppl / discuss with Christoph
+- [x] Reserve restaurants Bin
+- [x] Reisegenehmigungen
+- [x] Find a flat in CH
+- [x] Reserve lunch BIN: Mama Bao?
+- [x] Reserve Dinner BIN: Max Emanuel??
+- [x] BERD followup
+- [x] Put flat on WG-Gesucht
+- [x] Prepare emails bin
+- [x] Prepare presentation for BERD
+	
+	- [ ] Highlight how it's valuable (for field and maybe BERD?)
+	- [ ] Add short term and long term vision
+	- [ ] Review
+- [x] Think about IEEE Viz paper options (DL ~ April 25)
+- [x] Apply for Sony internship
+- [x] Check for company summer internships (in US?) (2025??)
+- [x] Finalize Carpentries certification
+- [x] Check in on EWAF registration fee
+- [x] Add #wwl deployments for Azure
+- [x] Check advance payments for reisekosten / set it up for upcoming trip
+- [x] Urlaub Japan + Rückflug
+- [x] Record CHI video !!
+- [x] Finalize datafest food orders
+- [x] MZES Work packages
+- [x] June Workshop talk (multiversum)?
+- [x] Prepare Reisekostenantrag for Berkeley (abschläge??)
+- [x] Finalize SI for NeurIPS paper
+- [x] Double check computational resources on THURSDAY @{2025-05-22}
+- [x] Prepare Bin yu visit
+- [x] Accept Sony offer
+- [x] Review for EWAF
+- [x] 3tes angebot für supermarkt zeug (flaschenpost?)
+- [x] Write proposal for BERD
+- [x] Test RAINER
+- [x] Check in with secretaries re datafest stickers
+- [x] Create CHI presentation 🚂 by @{2025-02-21}
+- [x] Deal with StatProg Bullshit
+- [x] Perform first batch of annotations for #fairness-datasets
+- [x] Create annotations.csv file!!
+- [x] Send SONY application
+- [x] Put datafest pens to the right place
+- [x] Recnungsaddresse dazu
+- [x] Get haircut
+- [x] #fairness-datasets add train-test-splits (how to stratify?)
+- [x] Zuse IDP
+- [x] Zuse School Reviews
+- [x] WWL Edits (partial ✈️)
+- [x] First draft MZES @{2025-02-21}
+- [x] Carpentries add personas? (links on ipad)
+- [x] Fix MIQ autoscaling issue
+- [x] Reisekosten (abgeben!)
+- [x] Update WWL NAS
+- [x] Submit CHI paper
+- [x] Review #fairness-datasets dataset loading
+- [x] Export small selection of datasets for cosima #fairness-datasets
+- [x] Fairness datasets: Add protected attribute variation option
+- [x] Fix errors in #fairness-datasets case study
+- [x] Upload StatProg Grades
+- [x] Read Chinchilla Paper
+- [x] Send StatProg Ü5 mail
+- [x] Ask Simon for a final coffee (and when a good day for sweets would be)
+- [x] DRA Multiple Choice questions
+- [x] Finish grading for #StatProg Ex 5
+- [x] Double check #participatory-multiverse case study
+- [x] Prepare #fairness-datasets analysis for **Wednesday**
+- [x] Review CHI paper
+	- [x] 1st Half
+	- [ ] 2nd Half
+	- [ ] SI
+- [x] Go over MZES again
+- [x] Debug multiversum errors
+- [x] Write MZES application and prepare writing process
+- [x] Apply for google internship?
+- [x] Contact re zurich postdoc!
+- [x] Convert #participatory-multiverse to multiversum
+	
+	- [x] Conversion
+	- [ ] Run the simulation
+- [x] Grade KIT assignments
+- [x] Apply for Microsoft internship
+- [x] Review #participatory-multiverse revision
+- [x] Get SFO flights + book hotel
+- [x] Write invoice DRA
+- [x] CHI: Fix ms
+- [x] CHI: Submit rights form
+- [x] Submit WIP version of #participatory-multiverse
+- [x] E-Mail allbirds
+- [x] Finish #participatory-multiverse revision
+- [x] Finish #wwl talk
+- [x] Go over #participatory-multiverse feedback
+- [x] Rainer feedback
+- [x] Create WWL template repos?
+- [x] Deploy ws.themusiclab.org
+- [x] Finalize and test WWL Workshop example
+- [x] Update personal website
+- [x] Ask Sam re Hotels
+- [x] Finalize Urlaubsplanung, answer E-Mail
+- [x] Talk to christoph about MZES
+- [x] Apply for Vacation for NZ
+- [x] Letter of recommendation
+- [x] Admin stuff
+	- [x] Reisekosten
+	- [ ] Urlaub + Reiseanträge für NZ/AUS
+	- [x] Reisekosten revisions!!
+- [x] Work on #participatory-multiverse revision
+- [x] Send out Reiseantrag for NZ + AUS
+- [x] Go over #participatory-multiverse reviews
+- [x] Add intaractive viz for #participatory-multiverse
+- [x] Select & Print Photos for Present YEGI
+- [x] Prepare Übungsblatt 2 + Practical 4
+- [x] Finalize Berkeley / NZ Plan and send to Frauke + Christoph
+- [x] Send email re Auckland stay (David and another guy + Sam in CC)
+- [x] HOC Abrechnung
+- [x] Prepare #fairness-datasets presentation for MONDAY
+- [x] Prepare #fairness-datasets case study
+- [x] Prepare #StatProg Practical
+- [x] Prepare maps for yegi
+	- Mashad, Munich, Melbourne
+- [x] Review next week's #StatProg videos
+- [x] Re-Apply Mentoring
+- [x] Reply Wiebke with Kitchen-plan
+- [x] Order drinks
+- [x] Update CV
+- [x] Fotobuch kaufen
+- [x] Generate directories when running analysis
+- [x] Print Putzplan
+- [x] Schedule #WWL meeting
+- [x] Send relAI Poster
+- [x] Re-Vise and prepare git courses
+- [x] [StatProg video](https://www.youtube.com/watch?v=VdJSuvl7fn0&list=PLK97Fuec5s_H0vDzeBFCV9YJifrFOgXCH&index=2) neu aufnehmen
+- [x] Upload slides
+- [x] Put videos online
+- [x] Mentoring umbuchen!
+- [x] Return scoreId + add new edit score endpoint + incl for client
+- [x] GH move leaderboard to POST
+- [x] HDRUK Bio Video
+- [x] Update #wwl basecamp
+- [x] RV antworten
+- [x] Review NeurIPS Workshop Paper @{2024-09-27}
+- [x] Update #fairness-datasets package
+	- [x] Work with new table structure
+	- [x] Identify any non-working datasets
+- [x] Nachklausur grading
+- [x] Increment and deploy new WWL version
+- [x] Steuer Einspruch
+- [x] Account beantragen Jonas first spirit
+- [x] Zuse review
+- [x] Getränke abrechnen (50€ schon raus)
+- [x] Dolomiten packen
+- [x] Paperwork Christoph
+- [x] Ausschreibung HIWI
+- [x] Add Jonas to channels
+- [x] Send [[LMU Newsletter Participatory-Multiverse]]
+- [x] Book flight to NZ
+- [x] - [x] Add finalized version of multiverse figure
+- [x] Add stat. tests for #participatory-multiverse
+- [x] Post #participatory-multiverse on Reddit @{2024-08-26}
+- [x] Re-calculate N @{2024-08-21} #participatory-multiverse
+- [x] RE-DEPlOY DAFI
+- [x] Write into channel about EvalExcludeSubgroups
+- [x] Reply to Anton re #fairness-datasets
+- [x] WWL delete adminjs folder on startup
+- [x] Schedule another relAI talk
+- [x] Upload EWAF camera ready (& sign form)
+- [x] Prepare #participatory-multiverse analysis script
+- [x] Come up with #participatory-multiverse icon and name
+- [x] WWL instructions on getting rid of quarantine flag on macOS
+- [x] Look over Sam's input
+- [x] #StatProg grading
+- [x] Prepare #participatory-multiverse  study design
+- [x] Benchmark WWL queries
+- [x] Write script for #DRA docker / containers
+- [x] Fix electron version of #world-wide-lab
+- [x] WWL combined counts
+- [x] Doublecheck WWL exports
+- [x] Finalize Script for #DRA
+- [x] Finish [[2024-07 Review BRM PocketLabApp PoLA]]
+- [x] Follow up w/ Bin yu?
+- [x] Reisekranken überprüfen??
+- [x] Update BofA data
+- [x] Finalize advanced git kurs
+- [x] update website to more clearly mention fairness hacking as prior work
+- [x] Update git material
+- [x] Grade exercise sheet 4 #StatProg
 - [x] Add info on TML wwl / pushkin things
 - [x] Setup GH actions for personal website
 - [x] Write wwl deployment instructions
@@ -774,9 +1056,23 @@ kanban-plugin: board
 - [ ] Apply for [Northeaster Summer Internship](https://cssh.northeastern.edu/ethics/2024-summer-research-internship/)
 - [x] StatProg Practical
 	- Highlight people should say sth if no grade received
+- [ ] Come up with plan for #fairness-datasets development / progress
+- [ ] WWL Talk use Website Template? (much cooler!)
+- [ ] Meet w/ Courtney #tml
+- [ ] Emails Berkeley
+	- [ ] Bin Yu
+	- [ ] Person from Frauke
+	- [ ] Resilience Prof
+	- [ ] Sam's contacts
+	- [ ] Participatory Workshop PPl
+- [ ] Check in for industry advisor
+- [ ] ECCV supp.
+- [ ] PCS
+	- [x] Create hurricane example in multiversum
+	- [ ] Set up basic structure / implement zachs ideas in an R package?
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","show-relative-date":true,"hide-date-in-title":true,"new-line-trigger":"shift-enter"}
+{"kanban-plugin":"board","show-relative-date":true,"hide-date-in-title":true,"new-line-trigger":"shift-enter","list-collapse":[false,false,null]}
 ```
 %%

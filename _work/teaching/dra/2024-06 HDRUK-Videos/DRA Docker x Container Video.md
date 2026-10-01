@@ -1,14 +1,66 @@
 ## Topics
-
 - Why containers?
 	- "it works on my machine"
-	- re-running an analysis -> reproducibility
+		- while just annoying debugging problem as a developer
+		- serious problem in research, since it can threaten the reproducibility of research
+	- coming back to project after a while, trying to re-run analysis
 		- trying to figure out dependency hell / you have a newer version of R or Python
-- Docker | Podman | Apptainer (Stability)
-	- orbstack
-- Dockerfile | Containerfile
+	- Problems containers can help with
+- What are containers?
+	- Docker | Podman | Apptainer (Stability)
+		- orbstack
 - Concepts
+	- Terminology can be a bit confusing.
+	- We will use container homes as 
 	- Images
+		- Basic building block
+		- Images are available via container registries
+			- Docker Hub (by Docker) - often the default one that's used
+			- ghcr - offered by Github (for free)
+			- Every major cloud provider has one
+		- Image Tags, like names
+			- Used to refer to these
+			- ubuntu:latest
+			- ubuntu:20.04
+			- debian:latest
+			- debian:12
+			- debian:12-slim
+			- postgres:latest
+			- postgres:14
+			- ghcr.io/world-wide-lab/world-wide-lab
+	- Dockerfile | Containerfile
+		- It all starts with a Docker / Containerfile
+		- Example file
+		- Evaluated line by line and each line adds a layer to the image
+			- important to know if you want to optimize a container image (e.g. to not take up too much space)
+		- Go through line by line
+			- **[FIND EXAMPLE DOCKERFILE 🤔]**
+			- Maybe a shiny app?
+		- This is of course only scratching the surface, there's many more possible commands and you can get quite complex here
+		- With this Dockerfile we build our image
 	- Containers
+	- Typically called via the command line
 	- Volumes
-- Compose files?
+		- Would be provided as argument during start up
+		- Mapping a local directory of files onto a directory in the container
+			- When you want files to persist
+			- NEVER rely on files stored / generated in docker container -> always use volumes to store any outputs / persistent onto your machine
+			- Containers are meant to be "dispensable"
+			- Also useful for development, since you don't need to rebuild the container
+	- Multiple containers / automated passing in many of CLI parameters via compose files?
+- Pros/Cons
+	- Standardized environments (ish at least)
+		- Also forces you to create this environment from a "clean slate"
+	- Great for reproducibility
+		- Even useful when trying to get other people's code to run post-hoc (so that you don't have to install all dependencies on your computer)
+		- One important bit for reproducibility: At first glance just providing the Containerfiel may seem sufficient, since it includes all steps to recreate the image, right? However, it's significantly better to also provide a container image, since we often install dependencies from the internet and these may change, move or disappear in the future.
+	- Amazing for reliable deployments of software
+		- Especially with eye on deployments, there's now more and more options for getting a container deployed in the cloud *very* easily
+	- Easier to get started for other people
+	- Also now frequently used for developing software
+	- Infamous for taking up *lots* of storage
+	- Slight performance cost
+	- Licensing complications
+	- Debugging can be a bit more tedious -> Visual Studio Code Docker extensions
+		- Sometimes behave slightly differently (esp. in relation to networking / ports)
+	- Overall benefits outweigh downsides

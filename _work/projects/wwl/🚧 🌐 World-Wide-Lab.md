@@ -3,9 +3,43 @@
 ## landing page
 
 - cobe globe package
+- https://github.com/surveydown-dev/surveydown
+- https://docs.empirica.ly/
+- 
+
+Delete all data in WWL
+```sql
+DELETE FROM wwl_responses;
+DELETE FROM wwl_sessions;
+DELETE FROM wwl_participants;
+DELETE FROM wwl_studies;
+```
+
+### Study import / export
+
+- special folder in experiment folder / zip
+	- `_wwl/`
+		- wwl.json
+			- study
+			- leaderboards
+			- ...?
+		- study.json
+		- leaderboards.json
+		- icon.png
+
+## Create a plugin system
+- use leaderboards as test bed?
+	- plugin/
+		- admin/
+		- api/
+		- db/
+			- migrations/
+
+
 #### alternatives
 - https://labelstud.io/
 - https://www.project-redcap.org/
+- https://www.rallyuxr.com/
 - pushkin
 - pavlovia
 - open sesame
